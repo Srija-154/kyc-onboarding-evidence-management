@@ -1,0 +1,674 @@
+[
+  {
+    "owner_id":"OWN-0000001",
+    "customer_id":"CUS-000001",
+    "owner_name":"Dr. Mark Cooper",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000002",
+    "customer_id":"CUS-000002",
+    "owner_name":"Alexander Thompson",
+    "ownership_percentage":14.48,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000003",
+    "customer_id":"CUS-000002",
+    "owner_name":"Jennifer Erickson",
+    "ownership_percentage":32.94,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000004",
+    "customer_id":"CUS-000002",
+    "owner_name":"Valerie Hernandez",
+    "ownership_percentage":52.58,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000005",
+    "customer_id":"CUS-000003",
+    "owner_name":"Margaret Woods",
+    "ownership_percentage":20.9,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000006",
+    "customer_id":"CUS-000003",
+    "owner_name":"Christine Matthews",
+    "ownership_percentage":24.42,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000007",
+    "customer_id":"CUS-000003",
+    "owner_name":"Brittany Martinez",
+    "ownership_percentage":54.68,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000008",
+    "customer_id":"CUS-000004",
+    "owner_name":"James Combs MD",
+    "ownership_percentage":42.24,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000009",
+    "customer_id":"CUS-000004",
+    "owner_name":"Nicholas Allen",
+    "ownership_percentage":57.76,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000010",
+    "customer_id":"CUS-000005",
+    "owner_name":"Tiffany Kennedy",
+    "ownership_percentage":13.5,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000011",
+    "customer_id":"CUS-000005",
+    "owner_name":"Ann Khan",
+    "ownership_percentage":12.83,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000012",
+    "customer_id":"CUS-000005",
+    "owner_name":"Jason Stevenson",
+    "ownership_percentage":73.67,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000013",
+    "customer_id":"CUS-000006",
+    "owner_name":"Daniel Jones",
+    "ownership_percentage":12.7,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000014",
+    "customer_id":"CUS-000006",
+    "owner_name":"Thomas Harris",
+    "ownership_percentage":20.07,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000015",
+    "customer_id":"CUS-000006",
+    "owner_name":"Elizabeth Stephenson",
+    "ownership_percentage":67.23,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000016",
+    "customer_id":"CUS-000008",
+    "owner_name":"Danielle Hicks",
+    "ownership_percentage":31.93,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000017",
+    "customer_id":"CUS-000008",
+    "owner_name":"Donna Marsh",
+    "ownership_percentage":68.07,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000018",
+    "customer_id":"CUS-000009",
+    "owner_name":"Brian Downs",
+    "ownership_percentage":19.37,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000019",
+    "customer_id":"CUS-000009",
+    "owner_name":"Sarah Allen",
+    "ownership_percentage":33.75,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000020",
+    "customer_id":"CUS-000009",
+    "owner_name":"Tonya Foster",
+    "ownership_percentage":46.88,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000021",
+    "customer_id":"CUS-000010",
+    "owner_name":"Heather Gonzalez",
+    "ownership_percentage":23.71,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000022",
+    "customer_id":"CUS-000010",
+    "owner_name":"Stephanie Maddox",
+    "ownership_percentage":34.77,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000023",
+    "customer_id":"CUS-000010",
+    "owner_name":"Robert Martinez",
+    "ownership_percentage":41.52,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000024",
+    "customer_id":"CUS-000011",
+    "owner_name":"Juan Olson",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000025",
+    "customer_id":"CUS-000012",
+    "owner_name":"Amy Conrad",
+    "ownership_percentage":24.65,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000026",
+    "customer_id":"CUS-000012",
+    "owner_name":"Ms. Sharon Salazar",
+    "ownership_percentage":32.88,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000027",
+    "customer_id":"CUS-000012",
+    "owner_name":"Linda Goodwin",
+    "ownership_percentage":42.47,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000028",
+    "customer_id":"CUS-000013",
+    "owner_name":"Edward Richardson",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000029",
+    "customer_id":"CUS-000014",
+    "owner_name":"Angela White",
+    "ownership_percentage":25.93,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000030",
+    "customer_id":"CUS-000014",
+    "owner_name":"Chelsea Riley",
+    "ownership_percentage":74.07,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000031",
+    "customer_id":"CUS-000015",
+    "owner_name":"Erin Murphy",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000032",
+    "customer_id":"CUS-000016",
+    "owner_name":"Vincent Welch",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000033",
+    "customer_id":"CUS-000017",
+    "owner_name":"Doris Green",
+    "ownership_percentage":18.04,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000034",
+    "customer_id":"CUS-000017",
+    "owner_name":"Lynn Young",
+    "ownership_percentage":37.2,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000035",
+    "customer_id":"CUS-000017",
+    "owner_name":"Nicole Briggs",
+    "ownership_percentage":44.76,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000036",
+    "customer_id":"CUS-000018",
+    "owner_name":"Brandon Jackson",
+    "ownership_percentage":17.75,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000037",
+    "customer_id":"CUS-000018",
+    "owner_name":"Brandon Galvan",
+    "ownership_percentage":27.79,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000038",
+    "customer_id":"CUS-000018",
+    "owner_name":"Dennis Schaefer",
+    "ownership_percentage":54.46,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000039",
+    "customer_id":"CUS-000019",
+    "owner_name":"Mark Parker",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000040",
+    "customer_id":"CUS-000020",
+    "owner_name":"Maria Roman",
+    "ownership_percentage":13.12,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000041",
+    "customer_id":"CUS-000020",
+    "owner_name":"John Neal",
+    "ownership_percentage":33.44,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000042",
+    "customer_id":"CUS-000020",
+    "owner_name":"David Hobbs",
+    "ownership_percentage":53.44,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000043",
+    "customer_id":"CUS-000021",
+    "owner_name":"Adam Carson",
+    "ownership_percentage":23.2,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000044",
+    "customer_id":"CUS-000021",
+    "owner_name":"Vanessa Ochoa",
+    "ownership_percentage":76.8,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000045",
+    "customer_id":"CUS-000022",
+    "owner_name":"Lisa Hernandez",
+    "ownership_percentage":27.71,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000046",
+    "customer_id":"CUS-000022",
+    "owner_name":"Sandra Liu",
+    "ownership_percentage":16.21,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000047",
+    "customer_id":"CUS-000022",
+    "owner_name":"Kevin Savage",
+    "ownership_percentage":56.08,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000048",
+    "customer_id":"CUS-000023",
+    "owner_name":"Susan Hernandez",
+    "ownership_percentage":48.24,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000049",
+    "customer_id":"CUS-000023",
+    "owner_name":"Justin Bartlett",
+    "ownership_percentage":51.76,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000050",
+    "customer_id":"CUS-000024",
+    "owner_name":"Emily Shah",
+    "ownership_percentage":23.2,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000051",
+    "customer_id":"CUS-000024",
+    "owner_name":"Christine Fields",
+    "ownership_percentage":76.8,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000052",
+    "customer_id":"CUS-000025",
+    "owner_name":"Monica Contreras",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000053",
+    "customer_id":"CUS-000026",
+    "owner_name":"Shawn Hawkins",
+    "ownership_percentage":43.72,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000054",
+    "customer_id":"CUS-000026",
+    "owner_name":"Roy Watts",
+    "ownership_percentage":56.28,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000055",
+    "customer_id":"CUS-000027",
+    "owner_name":"Shawn Perkins",
+    "ownership_percentage":30.03,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000056",
+    "customer_id":"CUS-000027",
+    "owner_name":"Mary Moran",
+    "ownership_percentage":30.96,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000057",
+    "customer_id":"CUS-000027",
+    "owner_name":"Lisa Webster",
+    "ownership_percentage":39.01,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000058",
+    "customer_id":"CUS-000028",
+    "owner_name":"Lisa Hughes",
+    "ownership_percentage":13.28,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000059",
+    "customer_id":"CUS-000028",
+    "owner_name":"Tammy Long",
+    "ownership_percentage":42.57,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000060",
+    "customer_id":"CUS-000028",
+    "owner_name":"Zachary Jones",
+    "ownership_percentage":44.15,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000061",
+    "customer_id":"CUS-000029",
+    "owner_name":"Brian Scott",
+    "ownership_percentage":28.06,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000062",
+    "customer_id":"CUS-000029",
+    "owner_name":"Shirley Bautista",
+    "ownership_percentage":32.6,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000063",
+    "customer_id":"CUS-000029",
+    "owner_name":"Gina Koch",
+    "ownership_percentage":39.34,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000064",
+    "customer_id":"CUS-000030",
+    "owner_name":"Cameron Rojas",
+    "ownership_percentage":100.0,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000065",
+    "customer_id":"CUS-000031",
+    "owner_name":"Jessica Whitaker",
+    "ownership_percentage":25.49,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000066",
+    "customer_id":"CUS-000031",
+    "owner_name":"David Kerr",
+    "ownership_percentage":26.61,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000067",
+    "customer_id":"CUS-000031",
+    "owner_name":"Justin Frederick",
+    "ownership_percentage":47.9,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000068",
+    "customer_id":"CUS-000032",
+    "owner_name":"Gregory Park",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000069",
+    "customer_id":"CUS-000033",
+    "owner_name":"Robert Leach",
+    "ownership_percentage":22.96,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000070",
+    "customer_id":"CUS-000033",
+    "owner_name":"Jessica Ochoa",
+    "ownership_percentage":77.04,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000071",
+    "customer_id":"CUS-000034",
+    "owner_name":"Beverly Bates",
+    "ownership_percentage":11.28,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000072",
+    "customer_id":"CUS-000034",
+    "owner_name":"Patricia Calderon",
+    "ownership_percentage":26.81,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000073",
+    "customer_id":"CUS-000034",
+    "owner_name":"Stephen Maddox",
+    "ownership_percentage":61.91,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000074",
+    "customer_id":"CUS-000035",
+    "owner_name":"Andrew Gates",
+    "ownership_percentage":27.73,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000075",
+    "customer_id":"CUS-000035",
+    "owner_name":"Kyle Vaughn",
+    "ownership_percentage":72.27,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000076",
+    "customer_id":"CUS-000036",
+    "owner_name":"Joseph Burns",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000077",
+    "customer_id":"CUS-000037",
+    "owner_name":"James Butler",
+    "ownership_percentage":32.93,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000078",
+    "customer_id":"CUS-000037",
+    "owner_name":"Jose Lopez",
+    "ownership_percentage":67.07,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000079",
+    "customer_id":"CUS-000038",
+    "owner_name":"David Knight",
+    "ownership_percentage":13.3,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000080",
+    "customer_id":"CUS-000038",
+    "owner_name":"Susan Marshall",
+    "ownership_percentage":28.09,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000081",
+    "customer_id":"CUS-000038",
+    "owner_name":"Barbara Pittman",
+    "ownership_percentage":58.61,
+    "is_verified":0,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000082",
+    "customer_id":"CUS-000039",
+    "owner_name":"Samantha Bates",
+    "ownership_percentage":100.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000084",
+    "customer_id":"CUS-000040",
+    "owner_name":"Synthetic Owner A",
+    "ownership_percentage":60.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  },
+  {
+    "owner_id":"OWN-0000085",
+    "customer_id":"CUS-000040",
+    "owner_name":"Synthetic Owner B",
+    "ownership_percentage":50.0,
+    "is_verified":1,
+    "effective_from":"2026-01-01"
+  }
+]

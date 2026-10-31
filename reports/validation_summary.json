@@ -1,0 +1,56 @@
+{
+  "database_integrity": [
+    "ok"
+  ],
+  "foreign_key_violations": 0,
+  "customers_duplicate_primary_keys": 0,
+  "documents_duplicate_primary_keys": 0,
+  "verifications_duplicate_primary_keys": 0,
+  "risk_ratings_duplicate_primary_keys": 0,
+  "review_cases_duplicate_primary_keys": 0,
+  "beneficial_owners_duplicate_primary_keys": 0,
+  "alerts_duplicate_primary_keys": 0,
+  "audit_events_duplicate_primary_keys": 0,
+  "kyc_requirements_duplicate_primary_keys": 0,
+  "customer_types_duplicate_primary_keys": 0,
+  "row_counts": {
+    "customers": 300,
+    "documents": 750,
+    "verifications": 750,
+    "risk_ratings": 300,
+    "review_cases": 100,
+    "beneficial_owners": 84,
+    "alerts": 184,
+    "audit_events": 1050,
+    "kyc_requirements": 24,
+    "customer_types": 2
+  },
+  "duplicate_document_references": 1,
+  "ownership_groups_over_100": 1,
+  "closed_reviews_without_resolution": 1,
+  "expired_documents_marked_verified": 122,
+  "approved_customers_missing_evidence": 151,
+  "customers_with_duplicate_active_reviews": 0,
+  "closed_reviews_missing_timestamp": 0,
+  "ground_truth_rows": 5,
+  "structural_errors": [],
+  "business_exceptions": [
+    "Document references are shared across unrelated customers.",
+    "Beneficial ownership totals exceed 100%.",
+    "Closed reviews exist without a resolution.",
+    "Expired documents are marked as verified.",
+    "Approved customers have incomplete or invalid mandatory KYC evidence."
+  ],
+  "operational_warnings": [],
+  "structural_status": "PASSED",
+  "business_status": "EXCEPTIONS_FOUND",
+  "validation_passed": false,
+  "validation_status": "ATTENTION_REQUIRED",
+  "notes": [
+    "Document references are shared across unrelated customers.",
+    "Beneficial ownership totals exceed 100%.",
+    "Closed reviews exist without a resolution.",
+    "Expired documents are marked as verified.",
+    "Approved customers have incomplete or invalid mandatory KYC evidence."
+  ]
+}

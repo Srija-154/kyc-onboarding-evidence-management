@@ -1,0 +1,37 @@
+[
+  {
+    "record_id": "DOC-CUS-000014-005",
+    "customer_id": "CUS-000014",
+    "issue_type": "EXPIRED_MARKED_VALID",
+    "expected_decision": "FLAG",
+    "description": "Document expiry date is in the past but status is verified."
+  },
+  {
+    "record_id": "CUS-001001",
+    "customer_id": "CUS-001001",
+    "issue_type": "APPROVED_WITH_MISSING_EVIDENCE",
+    "expected_decision": "FLAG",
+    "description": "Approved customer has no PAN evidence."
+  },
+  {
+    "record_id": "CUS-001000",
+    "customer_id": "CUS-001000",
+    "issue_type": "OWNERSHIP_OVER_100",
+    "expected_decision": "FLAG",
+    "description": "Beneficial ownership total is 110 percent."
+  },
+  {
+    "record_id": "REV-CUS-000001-2026-0001",
+    "customer_id": "CUS-000001",
+    "issue_type": "CLOSED_WITHOUT_RESOLUTION",
+    "expected_decision": "FLAG",
+    "description": "Review is closed but resolution is blank."
+  },
+  {
+    "record_id": "DOC-CUS-000002-001",
+    "customer_id": "CUS-000002",
+    "issue_type": "DUPLICATE_DOCUMENT",
+    "expected_decision": "INVESTIGATE",
+    "description": "Document reference is reused by another customer."
+  }
+]

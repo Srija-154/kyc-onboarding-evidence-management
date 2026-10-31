@@ -1,0 +1,2022 @@
+[
+  {
+    "alert_id":"ALT-2026-000001",
+    "customer_id":"CUS-000014",
+    "document_id":"DOC-CUS-000014-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 33 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000002",
+    "customer_id":"CUS-000032",
+    "document_id":"DOC-CUS-000032-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 488 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000003",
+    "customer_id":"CUS-000126",
+    "document_id":"DOC-CUS-000126-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 136 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000004",
+    "customer_id":"CUS-000215",
+    "document_id":"DOC-CUS-000215-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 140 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000005",
+    "customer_id":"CUS-000215",
+    "document_id":"DOC-CUS-000215-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 66 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000006",
+    "customer_id":"CUS-000333",
+    "document_id":"DOC-CUS-000333-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 285 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000007",
+    "customer_id":"CUS-000372",
+    "document_id":"DOC-CUS-000372-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 119 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000008",
+    "customer_id":"CUS-000399",
+    "document_id":"DOC-CUS-000399-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 279 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000009",
+    "customer_id":"CUS-000485",
+    "document_id":"DOC-CUS-000485-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 459 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000010",
+    "customer_id":"CUS-000517",
+    "document_id":"DOC-CUS-000517-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 451 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000011",
+    "customer_id":"CUS-000616",
+    "document_id":"DOC-CUS-000616-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 318 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000012",
+    "customer_id":"CUS-000631",
+    "document_id":"DOC-CUS-000631-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 80 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000013",
+    "customer_id":"CUS-000668",
+    "document_id":"DOC-CUS-000668-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 197 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000014",
+    "customer_id":"CUS-000700",
+    "document_id":"DOC-CUS-000700-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 237 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000015",
+    "customer_id":"CUS-000757",
+    "document_id":"DOC-CUS-000757-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 2 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000016",
+    "customer_id":"CUS-000774",
+    "document_id":"DOC-CUS-000774-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 53 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000017",
+    "customer_id":"CUS-000781",
+    "document_id":"DOC-CUS-000781-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 168 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000018",
+    "customer_id":"CUS-000799",
+    "document_id":"DOC-CUS-000799-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 71 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000019",
+    "customer_id":"CUS-000808",
+    "document_id":"DOC-CUS-000808-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 88 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000020",
+    "customer_id":"CUS-000817",
+    "document_id":"DOC-CUS-000817-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 329 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000021",
+    "customer_id":"CUS-000851",
+    "document_id":"DOC-CUS-000851-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 342 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000022",
+    "customer_id":"CUS-000925",
+    "document_id":"DOC-CUS-000925-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 332 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000023",
+    "customer_id":"CUS-000967",
+    "document_id":"DOC-CUS-000967-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 80 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000024",
+    "customer_id":"CUS-001024",
+    "document_id":"DOC-CUS-001024-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 336 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000025",
+    "customer_id":"CUS-001059",
+    "document_id":"DOC-CUS-001059-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 435 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000026",
+    "customer_id":"CUS-001228",
+    "document_id":"DOC-CUS-001228-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 333 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000027",
+    "customer_id":"CUS-001235",
+    "document_id":"DOC-CUS-001235-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 183 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000028",
+    "customer_id":"CUS-001254",
+    "document_id":"DOC-CUS-001254-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 317 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000029",
+    "customer_id":"CUS-001348",
+    "document_id":"DOC-CUS-001348-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 230 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000030",
+    "customer_id":"CUS-001348",
+    "document_id":"DOC-CUS-001348-007",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 253 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000031",
+    "customer_id":"CUS-001348",
+    "document_id":"DOC-CUS-001348-008",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 2 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000032",
+    "customer_id":"CUS-001389",
+    "document_id":"DOC-CUS-001389-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 147 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000033",
+    "customer_id":"CUS-001420",
+    "document_id":"DOC-CUS-001420-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 230 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000034",
+    "customer_id":"CUS-001420",
+    "document_id":"DOC-CUS-001420-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 66 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000035",
+    "customer_id":"CUS-001429",
+    "document_id":"DOC-CUS-001429-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 341 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000036",
+    "customer_id":"CUS-001460",
+    "document_id":"DOC-CUS-001460-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 235 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000037",
+    "customer_id":"CUS-001561",
+    "document_id":"DOC-CUS-001561-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 71 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000038",
+    "customer_id":"CUS-001561",
+    "document_id":"DOC-CUS-001561-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 284 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000039",
+    "customer_id":"CUS-001614",
+    "document_id":"DOC-CUS-001614-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 207 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000040",
+    "customer_id":"CUS-001614",
+    "document_id":"DOC-CUS-001614-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 303 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000041",
+    "customer_id":"CUS-001753",
+    "document_id":"DOC-CUS-001753-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 263 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000042",
+    "customer_id":"CUS-001756",
+    "document_id":"DOC-CUS-001756-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 309 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000043",
+    "customer_id":"CUS-001786",
+    "document_id":"DOC-CUS-001786-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 75 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000044",
+    "customer_id":"CUS-001818",
+    "document_id":"DOC-CUS-001818-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 145 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000045",
+    "customer_id":"CUS-001866",
+    "document_id":"DOC-CUS-001866-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 195 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000046",
+    "customer_id":"CUS-001869",
+    "document_id":"DOC-CUS-001869-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 160 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000047",
+    "customer_id":"CUS-002043",
+    "document_id":"DOC-CUS-002043-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 312 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000048",
+    "customer_id":"CUS-002102",
+    "document_id":"DOC-CUS-002102-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 142 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000049",
+    "customer_id":"CUS-002108",
+    "document_id":"DOC-CUS-002108-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 362 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000050",
+    "customer_id":"CUS-002190",
+    "document_id":"DOC-CUS-002190-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 29 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000051",
+    "customer_id":"CUS-002263",
+    "document_id":"DOC-CUS-002263-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 202 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000052",
+    "customer_id":"CUS-002277",
+    "document_id":"DOC-CUS-002277-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 367 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000053",
+    "customer_id":"CUS-002280",
+    "document_id":"DOC-CUS-002280-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 434 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000054",
+    "customer_id":"CUS-002375",
+    "document_id":"DOC-CUS-002375-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 263 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000055",
+    "customer_id":"CUS-002382",
+    "document_id":"DOC-CUS-002382-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 461 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000056",
+    "customer_id":"CUS-002412",
+    "document_id":"DOC-CUS-002412-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 120 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000057",
+    "customer_id":"CUS-002435",
+    "document_id":"DOC-CUS-002435-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 113 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000058",
+    "customer_id":"CUS-002524",
+    "document_id":"DOC-CUS-002524-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 282 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000059",
+    "customer_id":"CUS-002543",
+    "document_id":"DOC-CUS-002543-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 294 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000060",
+    "customer_id":"CUS-002579",
+    "document_id":"DOC-CUS-002579-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 27 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000061",
+    "customer_id":"CUS-002582",
+    "document_id":"DOC-CUS-002582-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 97 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000062",
+    "customer_id":"CUS-002610",
+    "document_id":"DOC-CUS-002610-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 147 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000063",
+    "customer_id":"CUS-002611",
+    "document_id":"DOC-CUS-002611-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 91 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000064",
+    "customer_id":"CUS-002615",
+    "document_id":"DOC-CUS-002615-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 396 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000065",
+    "customer_id":"CUS-002670",
+    "document_id":"DOC-CUS-002670-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 144 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000066",
+    "customer_id":"CUS-002674",
+    "document_id":"DOC-CUS-002674-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 224 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000067",
+    "customer_id":"CUS-002686",
+    "document_id":"DOC-CUS-002686-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 286 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000068",
+    "customer_id":"CUS-002798",
+    "document_id":"DOC-CUS-002798-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 259 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000069",
+    "customer_id":"CUS-002798",
+    "document_id":"DOC-CUS-002798-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 275 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000070",
+    "customer_id":"CUS-002850",
+    "document_id":"DOC-CUS-002850-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 104 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000071",
+    "customer_id":"CUS-002869",
+    "document_id":"DOC-CUS-002869-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 299 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000072",
+    "customer_id":"CUS-002912",
+    "document_id":"DOC-CUS-002912-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 150 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000073",
+    "customer_id":"CUS-002918",
+    "document_id":"DOC-CUS-002918-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 362 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000074",
+    "customer_id":"CUS-002926",
+    "document_id":"DOC-CUS-002926-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 303 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000075",
+    "customer_id":"CUS-002926",
+    "document_id":"DOC-CUS-002926-007",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 492 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000076",
+    "customer_id":"CUS-002942",
+    "document_id":"DOC-CUS-002942-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 338 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000077",
+    "customer_id":"CUS-002959",
+    "document_id":"DOC-CUS-002959-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 432 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000078",
+    "customer_id":"CUS-003095",
+    "document_id":"DOC-CUS-003095-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 95 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000079",
+    "customer_id":"CUS-003146",
+    "document_id":"DOC-CUS-003146-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 144 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000080",
+    "customer_id":"CUS-003156",
+    "document_id":"DOC-CUS-003156-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 494 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000081",
+    "customer_id":"CUS-003211",
+    "document_id":"DOC-CUS-003211-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 216 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000082",
+    "customer_id":"CUS-003217",
+    "document_id":"DOC-CUS-003217-007",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 238 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000083",
+    "customer_id":"CUS-003336",
+    "document_id":"DOC-CUS-003336-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 104 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000084",
+    "customer_id":"CUS-003417",
+    "document_id":"DOC-CUS-003417-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 86 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000085",
+    "customer_id":"CUS-003445",
+    "document_id":"DOC-CUS-003445-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 497 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000086",
+    "customer_id":"CUS-003462",
+    "document_id":"DOC-CUS-003462-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 137 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000087",
+    "customer_id":"CUS-003468",
+    "document_id":"DOC-CUS-003468-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 357 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000088",
+    "customer_id":"CUS-003510",
+    "document_id":"DOC-CUS-003510-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 60 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000089",
+    "customer_id":"CUS-003519",
+    "document_id":"DOC-CUS-003519-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 13 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000090",
+    "customer_id":"CUS-003534",
+    "document_id":"DOC-CUS-003534-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 83 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000091",
+    "customer_id":"CUS-003554",
+    "document_id":"DOC-CUS-003554-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 268 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000092",
+    "customer_id":"CUS-003561",
+    "document_id":"DOC-CUS-003561-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 194 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000093",
+    "customer_id":"CUS-003580",
+    "document_id":"DOC-CUS-003580-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 113 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000094",
+    "customer_id":"CUS-003607",
+    "document_id":"DOC-CUS-003607-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 148 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000095",
+    "customer_id":"CUS-003687",
+    "document_id":"DOC-CUS-003687-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 464 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000096",
+    "customer_id":"CUS-003788",
+    "document_id":"DOC-CUS-003788-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 425 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000097",
+    "customer_id":"CUS-003796",
+    "document_id":"DOC-CUS-003796-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 25 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000098",
+    "customer_id":"CUS-003906",
+    "document_id":"DOC-CUS-003906-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 366 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000099",
+    "customer_id":"CUS-003975",
+    "document_id":"DOC-CUS-003975-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 360 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000100",
+    "customer_id":"CUS-004089",
+    "document_id":"DOC-CUS-004089-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 276 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000101",
+    "customer_id":"CUS-004115",
+    "document_id":"DOC-CUS-004115-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 473 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000102",
+    "customer_id":"CUS-004181",
+    "document_id":"DOC-CUS-004181-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 356 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000103",
+    "customer_id":"CUS-004272",
+    "document_id":"DOC-CUS-004272-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 468 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000104",
+    "customer_id":"CUS-004318",
+    "document_id":"DOC-CUS-004318-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 80 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000105",
+    "customer_id":"CUS-004349",
+    "document_id":"DOC-CUS-004349-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 450 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000106",
+    "customer_id":"CUS-004375",
+    "document_id":"DOC-CUS-004375-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 432 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000107",
+    "customer_id":"CUS-004464",
+    "document_id":"DOC-CUS-004464-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 152 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000108",
+    "customer_id":"CUS-004474",
+    "document_id":"DOC-CUS-004474-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 28 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000109",
+    "customer_id":"CUS-004475",
+    "document_id":"DOC-CUS-004475-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 261 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000110",
+    "customer_id":"CUS-004572",
+    "document_id":"DOC-CUS-004572-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 194 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000111",
+    "customer_id":"CUS-004624",
+    "document_id":"DOC-CUS-004624-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 220 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000112",
+    "customer_id":"CUS-004635",
+    "document_id":"DOC-CUS-004635-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 282 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000113",
+    "customer_id":"CUS-004737",
+    "document_id":"DOC-CUS-004737-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 35 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000114",
+    "customer_id":"CUS-004764",
+    "document_id":"DOC-CUS-004764-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 437 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000115",
+    "customer_id":"CUS-004779",
+    "document_id":"DOC-CUS-004779-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 440 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000116",
+    "customer_id":"CUS-004833",
+    "document_id":"DOC-CUS-004833-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 282 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000117",
+    "customer_id":"CUS-004854",
+    "document_id":"DOC-CUS-004854-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 380 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000118",
+    "customer_id":"CUS-004878",
+    "document_id":"DOC-CUS-004878-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 500 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000119",
+    "customer_id":"CUS-004881",
+    "document_id":"DOC-CUS-004881-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 270 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000120",
+    "customer_id":"CUS-004881",
+    "document_id":"DOC-CUS-004881-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 46 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000121",
+    "customer_id":"CUS-004906",
+    "document_id":"DOC-CUS-004906-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 251 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000122",
+    "customer_id":"CUS-004970",
+    "document_id":"DOC-CUS-004970-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 308 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000123",
+    "customer_id":"CUS-005043",
+    "document_id":"DOC-CUS-005043-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 200 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000124",
+    "customer_id":"CUS-005059",
+    "document_id":"DOC-CUS-005059-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 431 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000125",
+    "customer_id":"CUS-005062",
+    "document_id":"DOC-CUS-005062-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 414 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000126",
+    "customer_id":"CUS-005150",
+    "document_id":"DOC-CUS-005150-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 476 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000127",
+    "customer_id":"CUS-005195",
+    "document_id":"DOC-CUS-005195-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 162 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000128",
+    "customer_id":"CUS-005199",
+    "document_id":"DOC-CUS-005199-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 180 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000129",
+    "customer_id":"CUS-005207",
+    "document_id":"DOC-CUS-005207-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 25 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000130",
+    "customer_id":"CUS-005266",
+    "document_id":"DOC-CUS-005266-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 320 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000131",
+    "customer_id":"CUS-005291",
+    "document_id":"DOC-CUS-005291-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 258 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000132",
+    "customer_id":"CUS-005298",
+    "document_id":"DOC-CUS-005298-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 20 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000133",
+    "customer_id":"CUS-005323",
+    "document_id":"DOC-CUS-005323-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 161 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000134",
+    "customer_id":"CUS-005336",
+    "document_id":"DOC-CUS-005336-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 349 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000135",
+    "customer_id":"CUS-005432",
+    "document_id":"DOC-CUS-005432-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 241 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000136",
+    "customer_id":"CUS-005482",
+    "document_id":"DOC-CUS-005482-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 137 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000137",
+    "customer_id":"CUS-005500",
+    "document_id":"DOC-CUS-005500-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 79 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000138",
+    "customer_id":"CUS-005501",
+    "document_id":"DOC-CUS-005501-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 95 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000139",
+    "customer_id":"CUS-005508",
+    "document_id":"DOC-CUS-005508-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 498 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000140",
+    "customer_id":"CUS-005533",
+    "document_id":"DOC-CUS-005533-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 360 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000141",
+    "customer_id":"CUS-005545",
+    "document_id":"DOC-CUS-005545-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 404 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000142",
+    "customer_id":"CUS-005570",
+    "document_id":"DOC-CUS-005570-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 369 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000143",
+    "customer_id":"CUS-005573",
+    "document_id":"DOC-CUS-005573-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 86 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000144",
+    "customer_id":"CUS-005591",
+    "document_id":"DOC-CUS-005591-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 338 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000145",
+    "customer_id":"CUS-005600",
+    "document_id":"DOC-CUS-005600-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 216 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000146",
+    "customer_id":"CUS-005606",
+    "document_id":"DOC-CUS-005606-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 308 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000147",
+    "customer_id":"CUS-005662",
+    "document_id":"DOC-CUS-005662-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 277 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000148",
+    "customer_id":"CUS-005781",
+    "document_id":"DOC-CUS-005781-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 6 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000149",
+    "customer_id":"CUS-005878",
+    "document_id":"DOC-CUS-005878-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 81 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000150",
+    "customer_id":"CUS-005976",
+    "document_id":"DOC-CUS-005976-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 131 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000151",
+    "customer_id":"CUS-005977",
+    "document_id":"DOC-CUS-005977-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 172 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000152",
+    "customer_id":"CUS-006035",
+    "document_id":"DOC-CUS-006035-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 9 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000153",
+    "customer_id":"CUS-006155",
+    "document_id":"DOC-CUS-006155-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 196 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000154",
+    "customer_id":"CUS-006289",
+    "document_id":"DOC-CUS-006289-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 411 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000155",
+    "customer_id":"CUS-006306",
+    "document_id":"DOC-CUS-006306-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 394 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000156",
+    "customer_id":"CUS-006347",
+    "document_id":"DOC-CUS-006347-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 131 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000157",
+    "customer_id":"CUS-006366",
+    "document_id":"DOC-CUS-006366-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 48 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000158",
+    "customer_id":"CUS-006413",
+    "document_id":"DOC-CUS-006413-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 462 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000159",
+    "customer_id":"CUS-006464",
+    "document_id":"DOC-CUS-006464-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 103 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000160",
+    "customer_id":"CUS-006483",
+    "document_id":"DOC-CUS-006483-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 443 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000161",
+    "customer_id":"CUS-006492",
+    "document_id":"DOC-CUS-006492-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 23 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000162",
+    "customer_id":"CUS-006538",
+    "document_id":"DOC-CUS-006538-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 96 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000163",
+    "customer_id":"CUS-006551",
+    "document_id":"DOC-CUS-006551-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 457 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000164",
+    "customer_id":"CUS-006565",
+    "document_id":"DOC-CUS-006565-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 489 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000165",
+    "customer_id":"CUS-006602",
+    "document_id":"DOC-CUS-006602-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 26 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000166",
+    "customer_id":"CUS-006604",
+    "document_id":"DOC-CUS-006604-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 237 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000167",
+    "customer_id":"CUS-006627",
+    "document_id":"DOC-CUS-006627-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 205 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000168",
+    "customer_id":"CUS-006628",
+    "document_id":"DOC-CUS-006628-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 450 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000169",
+    "customer_id":"CUS-006653",
+    "document_id":"DOC-CUS-006653-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 92 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000170",
+    "customer_id":"CUS-006653",
+    "document_id":"DOC-CUS-006653-007",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 75 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000171",
+    "customer_id":"CUS-006657",
+    "document_id":"DOC-CUS-006657-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 107 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000172",
+    "customer_id":"CUS-006763",
+    "document_id":"DOC-CUS-006763-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 420 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000173",
+    "customer_id":"CUS-006805",
+    "document_id":"DOC-CUS-006805-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 270 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000174",
+    "customer_id":"CUS-006819",
+    "document_id":"DOC-CUS-006819-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 220 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000175",
+    "customer_id":"CUS-006847",
+    "document_id":"DOC-CUS-006847-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 488 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000176",
+    "customer_id":"CUS-007026",
+    "document_id":"DOC-CUS-007026-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 16 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000177",
+    "customer_id":"CUS-007121",
+    "document_id":"DOC-CUS-007121-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 91 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000178",
+    "customer_id":"CUS-007143",
+    "document_id":"DOC-CUS-007143-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 406 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000179",
+    "customer_id":"CUS-007160",
+    "document_id":"DOC-CUS-007160-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 173 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000180",
+    "customer_id":"CUS-007193",
+    "document_id":"DOC-CUS-007193-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 152 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000181",
+    "customer_id":"CUS-007207",
+    "document_id":"DOC-CUS-007207-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 154 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000182",
+    "customer_id":"CUS-007243",
+    "document_id":"DOC-CUS-007243-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 209 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000183",
+    "customer_id":"CUS-007259",
+    "document_id":"DOC-CUS-007259-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 458 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000184",
+    "customer_id":"CUS-007261",
+    "document_id":"DOC-CUS-007261-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 378 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000185",
+    "customer_id":"CUS-007297",
+    "document_id":"DOC-CUS-007297-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 168 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000186",
+    "customer_id":"CUS-007299",
+    "document_id":"DOC-CUS-007299-008",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 323 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000187",
+    "customer_id":"CUS-007330",
+    "document_id":"DOC-CUS-007330-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 468 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000188",
+    "customer_id":"CUS-007481",
+    "document_id":"DOC-CUS-007481-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 490 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000189",
+    "customer_id":"CUS-007487",
+    "document_id":"DOC-CUS-007487-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 40 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000190",
+    "customer_id":"CUS-007518",
+    "document_id":"DOC-CUS-007518-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 140 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000191",
+    "customer_id":"CUS-007520",
+    "document_id":"DOC-CUS-007520-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 470 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000192",
+    "customer_id":"CUS-007600",
+    "document_id":"DOC-CUS-007600-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 223 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000193",
+    "customer_id":"CUS-007624",
+    "document_id":"DOC-CUS-007624-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 274 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000194",
+    "customer_id":"CUS-007660",
+    "document_id":"DOC-CUS-007660-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 215 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000195",
+    "customer_id":"CUS-007660",
+    "document_id":"DOC-CUS-007660-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 386 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000196",
+    "customer_id":"CUS-007672",
+    "document_id":"DOC-CUS-007672-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 77 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000197",
+    "customer_id":"CUS-007728",
+    "document_id":"DOC-CUS-007728-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 408 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000198",
+    "customer_id":"CUS-007735",
+    "document_id":"DOC-CUS-007735-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 110 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000199",
+    "customer_id":"CUS-007775",
+    "document_id":"DOC-CUS-007775-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 468 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000200",
+    "customer_id":"CUS-007856",
+    "document_id":"DOC-CUS-007856-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 430 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000201",
+    "customer_id":"CUS-007895",
+    "document_id":"DOC-CUS-007895-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 302 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000202",
+    "customer_id":"CUS-007995",
+    "document_id":"DOC-CUS-007995-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 199 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "alert_id":"ALT-2026-000001",
+    "customer_id":"CUS-000087",
+    "document_id":"DOC-CUS-000087-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 496 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000002",
+    "customer_id":"CUS-000246",
+    "document_id":"DOC-CUS-000246-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 319 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000003",
+    "customer_id":"CUS-000262",
+    "document_id":"DOC-CUS-000262-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 198 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000004",
+    "customer_id":"CUS-000271",
+    "document_id":"DOC-CUS-000271-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 342 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "risk_rating_id":"RISK-000001",
+    "customer_id":"CUS-000001",
+    "risk_level":"MEDIUM",
+    "risk_score":49,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000002",
+    "customer_id":"CUS-000002",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000003",
+    "customer_id":"CUS-000003",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000004",
+    "customer_id":"CUS-000004",
+    "risk_level":"LOW",
+    "risk_score":14,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000005",
+    "customer_id":"CUS-000005",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000006",
+    "customer_id":"CUS-000006",
+    "risk_level":"HIGH",
+    "risk_score":98,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000007",
+    "customer_id":"CUS-000007",
+    "risk_level":"MEDIUM",
+    "risk_score":57,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000008",
+    "customer_id":"CUS-000008",
+    "risk_level":"MEDIUM",
+    "risk_score":39,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000009",
+    "customer_id":"CUS-000009",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000010",
+    "customer_id":"CUS-000010",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000011",
+    "customer_id":"CUS-000011",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000012",
+    "customer_id":"CUS-000012",
+    "risk_level":"HIGH",
+    "risk_score":66,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000013",
+    "customer_id":"CUS-000013",
+    "risk_level":"LOW",
+    "risk_score":0,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000014",
+    "customer_id":"CUS-000014",
+    "risk_level":"LOW",
+    "risk_score":11,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000015",
+    "customer_id":"CUS-000015",
+    "risk_level":"HIGH",
+    "risk_score":69,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000016",
+    "customer_id":"CUS-000016",
+    "risk_level":"MEDIUM",
+    "risk_score":63,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000017",
+    "customer_id":"CUS-000017",
+    "risk_level":"MEDIUM",
+    "risk_score":43,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000018",
+    "customer_id":"CUS-000018",
+    "risk_level":"MEDIUM",
+    "risk_score":63,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000019",
+    "customer_id":"CUS-000019",
+    "risk_level":"MEDIUM",
+    "risk_score":51,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000020",
+    "customer_id":"CUS-000020",
+    "risk_level":"MEDIUM",
+    "risk_score":53,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000021",
+    "customer_id":"CUS-000021",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000022",
+    "customer_id":"CUS-000022",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000023",
+    "customer_id":"CUS-000023",
+    "risk_level":"MEDIUM",
+    "risk_score":45,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000024",
+    "customer_id":"CUS-000024",
+    "risk_level":"HIGH",
+    "risk_score":75,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000025",
+    "customer_id":"CUS-000025",
+    "risk_level":"MEDIUM",
+    "risk_score":58,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000026",
+    "customer_id":"CUS-000026",
+    "risk_level":"LOW",
+    "risk_score":10,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000027",
+    "customer_id":"CUS-000027",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000028",
+    "customer_id":"CUS-000028",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000029",
+    "customer_id":"CUS-000029",
+    "risk_level":"LOW",
+    "risk_score":12,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000030",
+    "customer_id":"CUS-000030",
+    "risk_level":"HIGH",
+    "risk_score":91,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000031",
+    "customer_id":"CUS-000031",
+    "risk_level":"HIGH",
+    "risk_score":85,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000032",
+    "customer_id":"CUS-000032",
+    "risk_level":"MEDIUM",
+    "risk_score":64,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000033",
+    "customer_id":"CUS-000033",
+    "risk_level":"LOW",
+    "risk_score":5,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000034",
+    "customer_id":"CUS-000034",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000035",
+    "customer_id":"CUS-000035",
+    "risk_level":"MEDIUM",
+    "risk_score":63,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000036",
+    "customer_id":"CUS-000036",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000037",
+    "customer_id":"CUS-000037",
+    "risk_level":"MEDIUM",
+    "risk_score":60,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000038",
+    "customer_id":"CUS-000038",
+    "risk_level":"MEDIUM",
+    "risk_score":50,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000039",
+    "customer_id":"CUS-000039",
+    "risk_level":"MEDIUM",
+    "risk_score":48,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000040",
+    "customer_id":"CUS-000040",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000041",
+    "customer_id":"CUS-000041",
+    "risk_level":"MEDIUM",
+    "risk_score":39,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000042",
+    "customer_id":"CUS-000042",
+    "risk_level":"LOW",
+    "risk_score":27,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000043",
+    "customer_id":"CUS-000043",
+    "risk_level":"HIGH",
+    "risk_score":73,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000044",
+    "customer_id":"CUS-000044",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000045",
+    "customer_id":"CUS-000045",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000046",
+    "customer_id":"CUS-000046",
+    "risk_level":"LOW",
+    "risk_score":15,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000047",
+    "customer_id":"CUS-000047",
+    "risk_level":"MEDIUM",
+    "risk_score":58,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000048",
+    "customer_id":"CUS-000048",
+    "risk_level":"LOW",
+    "risk_score":17,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000049",
+    "customer_id":"CUS-000049",
+    "risk_level":"MEDIUM",
+    "risk_score":47,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000050",
+    "customer_id":"CUS-000050",
+    "risk_level":"MEDIUM",
+    "risk_score":32,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000051",
+    "customer_id":"CUS-000051",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000052",
+    "customer_id":"CUS-000052",
+    "risk_level":"LOW",
+    "risk_score":10,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000053",
+    "customer_id":"CUS-000053",
+    "risk_level":"MEDIUM",
+    "risk_score":54,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000054",
+    "customer_id":"CUS-000054",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000055",
+    "customer_id":"CUS-000055",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000056",
+    "customer_id":"CUS-000056",
+    "risk_level":"LOW",
+    "risk_score":28,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000057",
+    "customer_id":"CUS-000057",
+    "risk_level":"HIGH",
+    "risk_score":98,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000058",
+    "customer_id":"CUS-000058",
+    "risk_level":"LOW",
+    "risk_score":29,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000059",
+    "customer_id":"CUS-000059",
+    "risk_level":"HIGH",
+    "risk_score":84,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000060",
+    "customer_id":"CUS-000060",
+    "risk_level":"MEDIUM",
+    "risk_score":57,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000061",
+    "customer_id":"CUS-000061",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000062",
+    "customer_id":"CUS-000062",
+    "risk_level":"LOW",
+    "risk_score":27,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000063",
+    "customer_id":"CUS-000063",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000064",
+    "customer_id":"CUS-000064",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000065",
+    "customer_id":"CUS-000065",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000066",
+    "customer_id":"CUS-000066",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000067",
+    "customer_id":"CUS-000067",
+    "risk_level":"MEDIUM",
+    "risk_score":41,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000068",
+    "customer_id":"CUS-000068",
+    "risk_level":"HIGH",
+    "risk_score":71,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000069",
+    "customer_id":"CUS-000069",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000070",
+    "customer_id":"CUS-000070",
+    "risk_level":"MEDIUM",
+    "risk_score":42,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000071",
+    "customer_id":"CUS-000071",
+    "risk_level":"HIGH",
+    "risk_score":74,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000072",
+    "customer_id":"CUS-000072",
+    "risk_level":"MEDIUM",
+    "risk_score":52,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000073",
+    "customer_id":"CUS-000073",
+    "risk_level":"LOW",
+    "risk_score":12,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000074",
+    "customer_id":"CUS-000074",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000075",
+    "customer_id":"CUS-000075",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000076",
+    "customer_id":"CUS-000076",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000077",
+    "customer_id":"CUS-000077",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000078",
+    "customer_id":"CUS-000078",
+    "risk_level":"MEDIUM",
+    "risk_score":63,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000079",
+    "customer_id":"CUS-000079",
+    "risk_level":"MEDIUM",
+    "risk_score":46,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000080",
+    "customer_id":"CUS-000080",
+    "risk_level":"MEDIUM",
+    "risk_score":49,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000081",
+    "customer_id":"CUS-000081",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000082",
+    "customer_id":"CUS-000082",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000083",
+    "customer_id":"CUS-000083",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000084",
+    "customer_id":"CUS-000084",
+    "risk_level":"HIGH",
+    "risk_score":91,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000085",
+    "customer_id":"CUS-000085",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000086",
+    "customer_id":"CUS-000086",
+    "risk_level":"LOW",
+    "risk_score":3,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000087",
+    "customer_id":"CUS-000087",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000088",
+    "customer_id":"CUS-000088",
+    "risk_level":"LOW",
+    "risk_score":26,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000089",
+    "customer_id":"CUS-000089",
+    "risk_level":"HIGH",
+    "risk_score":79,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000090",
+    "customer_id":"CUS-000090",
+    "risk_level":"MEDIUM",
+    "risk_score":62,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000091",
+    "customer_id":"CUS-000091",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000092",
+    "customer_id":"CUS-000092",
+    "risk_level":"MEDIUM",
+    "risk_score":50,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000093",
+    "customer_id":"CUS-000093",
+    "risk_level":"MEDIUM",
+    "risk_score":61,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000094",
+    "customer_id":"CUS-000094",
+    "risk_level":"MEDIUM",
+    "risk_score":41,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000095",
+    "customer_id":"CUS-000095",
+    "risk_level":"MEDIUM",
+    "risk_score":64,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000096",
+    "customer_id":"CUS-000096",
+    "risk_level":"LOW",
+    "risk_score":18,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000097",
+    "customer_id":"CUS-000097",
+    "risk_level":"MEDIUM",
+    "risk_score":34,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000098",
+    "customer_id":"CUS-000098",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000099",
+    "customer_id":"CUS-000099",
+    "risk_level":"HIGH",
+    "risk_score":70,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000100",
+    "customer_id":"CUS-000100",
+    "risk_level":"HIGH",
+    "risk_score":85,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000101",
+    "customer_id":"CUS-000101",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000102",
+    "customer_id":"CUS-000102",
+    "risk_level":"MEDIUM",
+    "risk_score":48,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000103",
+    "customer_id":"CUS-000103",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000104",
+    "customer_id":"CUS-000104",
+    "risk_level":"LOW",
+    "risk_score":27,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000105",
+    "customer_id":"CUS-000105",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000106",
+    "customer_id":"CUS-000106",
+    "risk_level":"MEDIUM",
+    "risk_score":33,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000107",
+    "customer_id":"CUS-000107",
+    "risk_level":"LOW",
+    "risk_score":26,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000108",
+    "customer_id":"CUS-000108",
+    "risk_level":"HIGH",
+    "risk_score":81,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000109",
+    "customer_id":"CUS-000109",
+    "risk_level":"MEDIUM",
+    "risk_score":46,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000110",
+    "customer_id":"CUS-000110",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000111",
+    "customer_id":"CUS-000111",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000112",
+    "customer_id":"CUS-000112",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000113",
+    "customer_id":"CUS-000113",
+    "risk_level":"MEDIUM",
+    "risk_score":39,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000114",
+    "customer_id":"CUS-000114",
+    "risk_level":"HIGH",
+    "risk_score":71,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000115",
+    "customer_id":"CUS-000115",
+    "risk_level":"HIGH",
+    "risk_score":91,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000116",
+    "customer_id":"CUS-000116",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000117",
+    "customer_id":"CUS-000117",
+    "risk_level":"HIGH",
+    "risk_score":70,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000118",
+    "customer_id":"CUS-000118",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000119",
+    "customer_id":"CUS-000119",
+    "risk_level":"MEDIUM",
+    "risk_score":48,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000120",
+    "customer_id":"CUS-000120",
+    "risk_level":"MEDIUM",
+    "risk_score":42,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000121",
+    "customer_id":"CUS-000121",
+    "risk_level":"MEDIUM",
+    "risk_score":37,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000122",
+    "customer_id":"CUS-000122",
+    "risk_level":"HIGH",
+    "risk_score":79,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000123",
+    "customer_id":"CUS-000123",
+    "risk_level":"MEDIUM",
+    "risk_score":53,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000124",
+    "customer_id":"CUS-000124",
+    "risk_level":"LOW",
+    "risk_score":8,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000125",
+    "customer_id":"CUS-000125",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000126",
+    "customer_id":"CUS-000126",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000127",
+    "customer_id":"CUS-000127",
+    "risk_level":"MEDIUM",
+    "risk_score":35,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000128",
+    "customer_id":"CUS-000128",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000129",
+    "customer_id":"CUS-000129",
+    "risk_level":"LOW",
+    "risk_score":21,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000130",
+    "customer_id":"CUS-000130",
+    "risk_level":"LOW",
+    "risk_score":15,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000131",
+    "customer_id":"CUS-000131",
+    "risk_level":"MEDIUM",
+    "risk_score":56,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000132",
+    "customer_id":"CUS-000132",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000133",
+    "customer_id":"CUS-000133",
+    "risk_level":"LOW",
+    "risk_score":5,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000134",
+    "customer_id":"CUS-000134",
+    "risk_level":"MEDIUM",
+    "risk_score":64,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000135",
+    "customer_id":"CUS-000135",
+    "risk_level":"HIGH",
+    "risk_score":99,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000136",
+    "customer_id":"CUS-000136",
+    "risk_level":"LOW",
+    "risk_score":17,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000137",
+    "customer_id":"CUS-000137",
+    "risk_level":"LOW",
+    "risk_score":21,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000138",
+    "customer_id":"CUS-000138",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000139",
+    "customer_id":"CUS-000139",
+    "risk_level":"LOW",
+    "risk_score":15,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000140",
+    "customer_id":"CUS-000140",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000141",
+    "customer_id":"CUS-000141",
+    "risk_level":"HIGH",
+    "risk_score":81,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000142",
+    "customer_id":"CUS-000142",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000143",
+    "customer_id":"CUS-000143",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000144",
+    "customer_id":"CUS-000144",
+    "risk_level":"HIGH",
+    "risk_score":86,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000145",
+    "customer_id":"CUS-000145",
+    "risk_level":"MEDIUM",
+    "risk_score":34,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000146",
+    "customer_id":"CUS-000146",
+    "risk_level":"LOW",
+    "risk_score":29,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000147",
+    "customer_id":"CUS-000147",
+    "risk_level":"MEDIUM",
+    "risk_score":39,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000148",
+    "customer_id":"CUS-000148",
+    "risk_level":"MEDIUM",
+    "risk_score":65,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000149",
+    "customer_id":"CUS-000149",
+    "risk_level":"MEDIUM",
+    "risk_score":32,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000150",
+    "customer_id":"CUS-000150",
+    "risk_level":"MEDIUM",
+    "risk_score":53,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000151",
+    "customer_id":"CUS-000151",
+    "risk_level":"LOW",
+    "risk_score":21,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000152",
+    "customer_id":"CUS-000152",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000153",
+    "customer_id":"CUS-000153",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000154",
+    "customer_id":"CUS-000154",
+    "risk_level":"LOW",
+    "risk_score":8,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000155",
+    "customer_id":"CUS-000155",
+    "risk_level":"LOW",
+    "risk_score":21,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000156",
+    "customer_id":"CUS-000156",
+    "risk_level":"MEDIUM",
+    "risk_score":45,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000157",
+    "customer_id":"CUS-000157",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000158",
+    "customer_id":"CUS-000158",
+    "risk_level":"MEDIUM",
+    "risk_score":52,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000159",
+    "customer_id":"CUS-000159",
+    "risk_level":"HIGH",
+    "risk_score":92,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000160",
+    "customer_id":"CUS-000160",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000161",
+    "customer_id":"CUS-000161",
+    "risk_level":"MEDIUM",
+    "risk_score":32,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000162",
+    "customer_id":"CUS-000162",
+    "risk_level":"LOW",
+    "risk_score":10,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000163",
+    "customer_id":"CUS-000163",
+    "risk_level":"LOW",
+    "risk_score":28,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000164",
+    "customer_id":"CUS-000164",
+    "risk_level":"MEDIUM",
+    "risk_score":40,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000165",
+    "customer_id":"CUS-000165",
+    "risk_level":"LOW",
+    "risk_score":22,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000166",
+    "customer_id":"CUS-000166",
+    "risk_level":"MEDIUM",
+    "risk_score":41,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000167",
+    "customer_id":"CUS-000167",
+    "risk_level":"MEDIUM",
+    "risk_score":43,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000168",
+    "customer_id":"CUS-000168",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000169",
+    "customer_id":"CUS-000169",
+    "risk_level":"HIGH",
+    "risk_score":78,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000170",
+    "customer_id":"CUS-000170",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000171",
+    "customer_id":"CUS-000171",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000172",
+    "customer_id":"CUS-000172",
+    "risk_level":"MEDIUM",
+    "risk_score":54,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000173",
+    "customer_id":"CUS-000173",
+    "risk_level":"MEDIUM",
+    "risk_score":57,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000174",
+    "customer_id":"CUS-000174",
+    "risk_level":"MEDIUM",
+    "risk_score":52,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000175",
+    "customer_id":"CUS-000175",
+    "risk_level":"LOW",
+    "risk_score":10,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000176",
+    "customer_id":"CUS-000176",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000177",
+    "customer_id":"CUS-000177",
+    "risk_level":"MEDIUM",
+    "risk_score":59,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000178",
+    "customer_id":"CUS-000178",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000179",
+    "customer_id":"CUS-000179",
+    "risk_level":"HIGH",
+    "risk_score":88,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000180",
+    "customer_id":"CUS-000180",
+    "risk_level":"MEDIUM",
+    "risk_score":55,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000181",
+    "customer_id":"CUS-000181",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000182",
+    "customer_id":"CUS-000182",
+    "risk_level":"LOW",
+    "risk_score":10,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000183",
+    "customer_id":"CUS-000183",
+    "risk_level":"LOW",
+    "risk_score":29,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000184",
+    "customer_id":"CUS-000184",
+    "risk_level":"LOW",
+    "risk_score":27,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000185",
+    "customer_id":"CUS-000185",
+    "risk_level":"HIGH",
+    "risk_score":96,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000186",
+    "customer_id":"CUS-000186",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000187",
+    "customer_id":"CUS-000187",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000188",
+    "customer_id":"CUS-000188",
+    "risk_level":"MEDIUM",
+    "risk_score":44,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000189",
+    "customer_id":"CUS-000189",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000190",
+    "customer_id":"CUS-000190",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000191",
+    "customer_id":"CUS-000191",
+    "risk_level":"MEDIUM",
+    "risk_score":61,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000192",
+    "customer_id":"CUS-000192",
+    "risk_level":"MEDIUM",
+    "risk_score":40,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000193",
+    "customer_id":"CUS-000193",
+    "risk_level":"LOW",
+    "risk_score":26,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000194",
+    "customer_id":"CUS-000194",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000195",
+    "customer_id":"CUS-000195",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000196",
+    "customer_id":"CUS-000196",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000197",
+    "customer_id":"CUS-000197",
+    "risk_level":"LOW",
+    "risk_score":3,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000198",
+    "customer_id":"CUS-000198",
+    "risk_level":"LOW",
+    "risk_score":11,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000199",
+    "customer_id":"CUS-000199",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000200",
+    "customer_id":"CUS-000200",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000201",
+    "customer_id":"CUS-000201",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000202",
+    "customer_id":"CUS-000202",
+    "risk_level":"MEDIUM",
+    "risk_score":64,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000203",
+    "customer_id":"CUS-000203",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000204",
+    "customer_id":"CUS-000204",
+    "risk_level":"MEDIUM",
+    "risk_score":62,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000205",
+    "customer_id":"CUS-000205",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000206",
+    "customer_id":"CUS-000206",
+    "risk_level":"HIGH",
+    "risk_score":66,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000207",
+    "customer_id":"CUS-000207",
+    "risk_level":"MEDIUM",
+    "risk_score":65,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000208",
+    "customer_id":"CUS-000208",
+    "risk_level":"LOW",
+    "risk_score":9,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000209",
+    "customer_id":"CUS-000209",
+    "risk_level":"HIGH",
+    "risk_score":80,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000210",
+    "customer_id":"CUS-000210",
+    "risk_level":"MEDIUM",
+    "risk_score":41,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000211",
+    "customer_id":"CUS-000211",
+    "risk_level":"HIGH",
+    "risk_score":93,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000212",
+    "customer_id":"CUS-000212",
+    "risk_level":"MEDIUM",
+    "risk_score":40,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000213",
+    "customer_id":"CUS-000213",
+    "risk_level":"LOW",
+    "risk_score":29,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000214",
+    "customer_id":"CUS-000214",
+    "risk_level":"LOW",
+    "risk_score":11,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000215",
+    "customer_id":"CUS-000215",
+    "risk_level":"LOW",
+    "risk_score":5,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000216",
+    "customer_id":"CUS-000216",
+    "risk_level":"MEDIUM",
+    "risk_score":31,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000217",
+    "customer_id":"CUS-000217",
+    "risk_level":"LOW",
+    "risk_score":3,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000218",
+    "customer_id":"CUS-000218",
+    "risk_level":"MEDIUM",
+    "risk_score":63,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000219",
+    "customer_id":"CUS-000219",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000220",
+    "customer_id":"CUS-000220",
+    "risk_level":"HIGH",
+    "risk_score":87,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000221",
+    "customer_id":"CUS-000221",
+    "risk_level":"MEDIUM",
+    "risk_score":45,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000222",
+    "customer_id":"CUS-000222",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000223",
+    "customer_id":"CUS-000223",
+    "risk_level":"LOW",
+    "risk_score":11,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000224",
+    "customer_id":"CUS-000224",
+    "risk_level":"HIGH",
+    "risk_score":93,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000225",
+    "customer_id":"CUS-000225",
+    "risk_level":"LOW",
+    "risk_score":27,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000226",
+    "customer_id":"CUS-000226",
+    "risk_level":"HIGH",
+    "risk_score":79,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000227",
+    "customer_id":"CUS-000227",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000228",
+    "customer_id":"CUS-000228",
+    "risk_level":"LOW",
+    "risk_score":5,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000229",
+    "customer_id":"CUS-000229",
+    "risk_level":"LOW",
+    "risk_score":18,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000230",
+    "customer_id":"CUS-000230",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000231",
+    "customer_id":"CUS-000231",
+    "risk_level":"LOW",
+    "risk_score":15,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000232",
+    "customer_id":"CUS-000232",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000233",
+    "customer_id":"CUS-000233",
+    "risk_level":"LOW",
+    "risk_score":12,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000234",
+    "customer_id":"CUS-000234",
+    "risk_level":"HIGH",
+    "risk_score":92,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000235",
+    "customer_id":"CUS-000235",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000236",
+    "customer_id":"CUS-000236",
+    "risk_level":"LOW",
+    "risk_score":28,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000237",
+    "customer_id":"CUS-000237",
+    "risk_level":"MEDIUM",
+    "risk_score":56,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000238",
+    "customer_id":"CUS-000238",
+    "risk_level":"MEDIUM",
+    "risk_score":55,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000239",
+    "customer_id":"CUS-000239",
+    "risk_level":"MEDIUM",
+    "risk_score":57,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000240",
+    "customer_id":"CUS-000240",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000241",
+    "customer_id":"CUS-000241",
+    "risk_level":"HIGH",
+    "risk_score":67,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000242",
+    "customer_id":"CUS-000242",
+    "risk_level":"LOW",
+    "risk_score":15,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000243",
+    "customer_id":"CUS-000243",
+    "risk_level":"HIGH",
+    "risk_score":86,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000244",
+    "customer_id":"CUS-000244",
+    "risk_level":"LOW",
+    "risk_score":14,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000245",
+    "customer_id":"CUS-000245",
+    "risk_level":"LOW",
+    "risk_score":30,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000246",
+    "customer_id":"CUS-000246",
+    "risk_level":"LOW",
+    "risk_score":19,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000247",
+    "customer_id":"CUS-000247",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000248",
+    "customer_id":"CUS-000248",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000249",
+    "customer_id":"CUS-000249",
+    "risk_level":"LOW",
+    "risk_score":11,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000250",
+    "customer_id":"CUS-000250",
+    "risk_level":"MEDIUM",
+    "risk_score":38,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000251",
+    "customer_id":"CUS-000251",
+    "risk_level":"LOW",
+    "risk_score":4,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000252",
+    "customer_id":"CUS-000252",
+    "risk_level":"LOW",
+    "risk_score":16,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000253",
+    "customer_id":"CUS-000253",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000254",
+    "customer_id":"CUS-000254",
+    "risk_level":"LOW",
+    "risk_score":9,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000255",
+    "customer_id":"CUS-000255",
+    "risk_level":"LOW",
+    "risk_score":12,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000256",
+    "customer_id":"CUS-000256",
+    "risk_level":"LOW",
+    "risk_score":29,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000257",
+    "customer_id":"CUS-000257",
+    "risk_level":"LOW",
+    "risk_score":2,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000258",
+    "customer_id":"CUS-000258",
+    "risk_level":"MEDIUM",
+    "risk_score":47,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000259",
+    "customer_id":"CUS-000259",
+    "risk_level":"MEDIUM",
+    "risk_score":58,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000260",
+    "customer_id":"CUS-000260",
+    "risk_level":"MEDIUM",
+    "risk_score":65,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000261",
+    "customer_id":"CUS-000261",
+    "risk_level":"LOW",
+    "risk_score":14,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000262",
+    "customer_id":"CUS-000262",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000263",
+    "customer_id":"CUS-000263",
+    "risk_level":"HIGH",
+    "risk_score":97,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000264",
+    "customer_id":"CUS-000264",
+    "risk_level":"HIGH",
+    "risk_score":81,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000265",
+    "customer_id":"CUS-000265",
+    "risk_level":"LOW",
+    "risk_score":26,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000266",
+    "customer_id":"CUS-000266",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000267",
+    "customer_id":"CUS-000267",
+    "risk_level":"MEDIUM",
+    "risk_score":42,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000268",
+    "customer_id":"CUS-000268",
+    "risk_level":"HIGH",
+    "risk_score":83,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000269",
+    "customer_id":"CUS-000269",
+    "risk_level":"HIGH",
+    "risk_score":98,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000270",
+    "customer_id":"CUS-000270",
+    "risk_level":"LOW",
+    "risk_score":26,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000271",
+    "customer_id":"CUS-000271",
+    "risk_level":"LOW",
+    "risk_score":9,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000272",
+    "customer_id":"CUS-000272",
+    "risk_level":"MEDIUM",
+    "risk_score":34,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000273",
+    "customer_id":"CUS-000273",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000274",
+    "customer_id":"CUS-000274",
+    "risk_level":"LOW",
+    "risk_score":6,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000275",
+    "customer_id":"CUS-000275",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000276",
+    "customer_id":"CUS-000276",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000277",
+    "customer_id":"CUS-000277",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000278",
+    "customer_id":"CUS-000278",
+    "risk_level":"LOW",
+    "risk_score":30,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000279",
+    "customer_id":"CUS-000279",
+    "risk_level":"LOW",
+    "risk_score":30,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000280",
+    "customer_id":"CUS-000280",
+    "risk_level":"LOW",
+    "risk_score":1,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000281",
+    "customer_id":"CUS-000281",
+    "risk_level":"LOW",
+    "risk_score":13,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000282",
+    "customer_id":"CUS-000282",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000283",
+    "customer_id":"CUS-000283",
+    "risk_level":"MEDIUM",
+    "risk_score":48,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000284",
+    "customer_id":"CUS-000284",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000285",
+    "customer_id":"CUS-000285",
+    "risk_level":"HIGH",
+    "risk_score":68,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000286",
+    "customer_id":"CUS-000286",
+    "risk_level":"LOW",
+    "risk_score":30,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000287",
+    "customer_id":"CUS-000287",
+    "risk_level":"LOW",
+    "risk_score":20,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000288",
+    "customer_id":"CUS-000288",
+    "risk_level":"LOW",
+    "risk_score":23,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000289",
+    "customer_id":"CUS-000289",
+    "risk_level":"LOW",
+    "risk_score":7,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000290",
+    "customer_id":"CUS-000290",
+    "risk_level":"MEDIUM",
+    "risk_score":36,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000291",
+    "customer_id":"CUS-000291",
+    "risk_level":"HIGH",
+    "risk_score":82,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000292",
+    "customer_id":"CUS-000292",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000293",
+    "customer_id":"CUS-000293",
+    "risk_level":"HIGH",
+    "risk_score":68,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000294",
+    "customer_id":"CUS-000294",
+    "risk_level":"MEDIUM",
+    "risk_score":65,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000295",
+    "customer_id":"CUS-000295",
+    "risk_level":"MEDIUM",
+    "risk_score":40,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000296",
+    "customer_id":"CUS-000296",
+    "risk_level":"LOW",
+    "risk_score":25,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000297",
+    "customer_id":"CUS-000297",
+    "risk_level":"MEDIUM",
+    "risk_score":39,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000298",
+    "customer_id":"CUS-000298",
+    "risk_level":"LOW",
+    "risk_score":28,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000299",
+    "customer_id":"CUS-000299",
+    "risk_level":"LOW",
+    "risk_score":14,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  },
+  {
+    "risk_rating_id":"RISK-000300",
+    "customer_id":"CUS-000300",
+    "risk_level":"HIGH",
+    "risk_score":71,
+    "effective_from":"2026-01-01",
+    "effective_to":null,
+    "reason":"Synthetic rule-based risk score"
+  }
+]

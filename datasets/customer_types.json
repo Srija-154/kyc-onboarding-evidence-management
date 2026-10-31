@@ -1,0 +1,12 @@
+[
+  {
+    "customer_type_id":1,
+    "type_name":"INDIVIDUAL",
+    "description":"Natural person customer"
+  },
+  {
+    "customer_type_id":2,
+    "type_name":"BUSINESS",
+    "description":"Legal entity or business customer"
+  }
+]

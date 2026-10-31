@@ -1,0 +1,1842 @@
+[
+  {
+    "alert_id":"ALT-2026-000001",
+    "customer_id":"CUS-000001",
+    "document_id":"DOC-CUS-000001-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 431 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000002",
+    "customer_id":"CUS-000003",
+    "document_id":"DOC-CUS-000003-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 334 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000003",
+    "customer_id":"CUS-000005",
+    "document_id":"DOC-CUS-000005-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 87 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000004",
+    "customer_id":"CUS-000008",
+    "document_id":"DOC-CUS-000008-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 337 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000005",
+    "customer_id":"CUS-000009",
+    "document_id":"DOC-CUS-000009-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 202 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000006",
+    "customer_id":"CUS-000011",
+    "document_id":"DOC-CUS-000011-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 249 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000007",
+    "customer_id":"CUS-000013",
+    "document_id":"DOC-CUS-000013-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 364 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000008",
+    "customer_id":"CUS-000016",
+    "document_id":"DOC-CUS-000016-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 185 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000009",
+    "customer_id":"CUS-000019",
+    "document_id":"DOC-CUS-000019-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 339 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000010",
+    "customer_id":"CUS-000021",
+    "document_id":"DOC-CUS-000021-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 416 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000011",
+    "customer_id":"CUS-000022",
+    "document_id":"DOC-CUS-000022-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 1 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000012",
+    "customer_id":"CUS-000024",
+    "document_id":"DOC-CUS-000024-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 316 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000013",
+    "customer_id":"CUS-000024",
+    "document_id":"DOC-CUS-000024-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 5 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000014",
+    "customer_id":"CUS-000025",
+    "document_id":"DOC-CUS-000025-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 530 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000015",
+    "customer_id":"CUS-000028",
+    "document_id":"DOC-CUS-000028-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 336 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000016",
+    "customer_id":"CUS-000029",
+    "document_id":"DOC-CUS-000029-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 96 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000017",
+    "customer_id":"CUS-000030",
+    "document_id":"DOC-CUS-000030-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 327 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000018",
+    "customer_id":"CUS-000030",
+    "document_id":"DOC-CUS-000030-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 84 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000019",
+    "customer_id":"CUS-000032",
+    "document_id":"DOC-CUS-000032-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 226 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000020",
+    "customer_id":"CUS-000033",
+    "document_id":"DOC-CUS-000033-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 344 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000021",
+    "customer_id":"CUS-000037",
+    "document_id":"DOC-CUS-000037-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 318 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000022",
+    "customer_id":"CUS-000037",
+    "document_id":"DOC-CUS-000037-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 43 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000023",
+    "customer_id":"CUS-000038",
+    "document_id":"DOC-CUS-000038-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 10 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000024",
+    "customer_id":"CUS-000039",
+    "document_id":"DOC-CUS-000039-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 99 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000025",
+    "customer_id":"CUS-000043",
+    "document_id":"DOC-CUS-000043-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 245 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000026",
+    "customer_id":"CUS-000044",
+    "document_id":"DOC-CUS-000044-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 379 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000027",
+    "customer_id":"CUS-000046",
+    "document_id":"DOC-CUS-000046-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 474 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000028",
+    "customer_id":"CUS-000047",
+    "document_id":"DOC-CUS-000047-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 398 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000029",
+    "customer_id":"CUS-000050",
+    "document_id":"DOC-CUS-000050-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 435 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000030",
+    "customer_id":"CUS-000050",
+    "document_id":"DOC-CUS-000050-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 271 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000031",
+    "customer_id":"CUS-000050",
+    "document_id":"DOC-CUS-000050-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 425 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000032",
+    "customer_id":"CUS-000051",
+    "document_id":"DOC-CUS-000051-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 15 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000033",
+    "customer_id":"CUS-000053",
+    "document_id":"DOC-CUS-000053-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 153 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000034",
+    "customer_id":"CUS-000054",
+    "document_id":"DOC-CUS-000054-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 156 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000035",
+    "customer_id":"CUS-000056",
+    "document_id":"DOC-CUS-000056-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 7 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000036",
+    "customer_id":"CUS-000057",
+    "document_id":"DOC-CUS-000057-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 542 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000037",
+    "customer_id":"CUS-000058",
+    "document_id":"DOC-CUS-000058-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 14 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000038",
+    "customer_id":"CUS-000061",
+    "document_id":"DOC-CUS-000061-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 153 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000039",
+    "customer_id":"CUS-000062",
+    "document_id":"DOC-CUS-000062-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 323 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000040",
+    "customer_id":"CUS-000064",
+    "document_id":"DOC-CUS-000064-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 58 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000041",
+    "customer_id":"CUS-000068",
+    "document_id":"DOC-CUS-000068-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 997 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000042",
+    "customer_id":"CUS-000070",
+    "document_id":"DOC-CUS-000070-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 381 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000043",
+    "customer_id":"CUS-000070",
+    "document_id":"DOC-CUS-000070-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 294 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000044",
+    "customer_id":"CUS-000071",
+    "document_id":"DOC-CUS-000071-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 573 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000045",
+    "customer_id":"CUS-000072",
+    "document_id":"DOC-CUS-000072-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 92 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000046",
+    "customer_id":"CUS-000073",
+    "document_id":"DOC-CUS-000073-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 675 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000047",
+    "customer_id":"CUS-000074",
+    "document_id":"DOC-CUS-000074-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 24 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000048",
+    "customer_id":"CUS-000076",
+    "document_id":"DOC-CUS-000076-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 77 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000049",
+    "customer_id":"CUS-000078",
+    "document_id":"DOC-CUS-000078-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 92 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000050",
+    "customer_id":"CUS-000080",
+    "document_id":"DOC-CUS-000080-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 140 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000051",
+    "customer_id":"CUS-000081",
+    "document_id":"DOC-CUS-000081-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 330 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000052",
+    "customer_id":"CUS-000081",
+    "document_id":"DOC-CUS-000081-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 358 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000053",
+    "customer_id":"CUS-000082",
+    "document_id":"DOC-CUS-000082-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 289 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000054",
+    "customer_id":"CUS-000085",
+    "document_id":"DOC-CUS-000085-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 74 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000055",
+    "customer_id":"CUS-000086",
+    "document_id":"DOC-CUS-000086-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 15 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000056",
+    "customer_id":"CUS-000087",
+    "document_id":"DOC-CUS-000087-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 20 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000057",
+    "customer_id":"CUS-000091",
+    "document_id":"DOC-CUS-000091-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 112 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000058",
+    "customer_id":"CUS-000094",
+    "document_id":"DOC-CUS-000094-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 431 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000059",
+    "customer_id":"CUS-000094",
+    "document_id":"DOC-CUS-000094-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 471 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000060",
+    "customer_id":"CUS-000095",
+    "document_id":"DOC-CUS-000095-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 348 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000061",
+    "customer_id":"CUS-000096",
+    "document_id":"DOC-CUS-000096-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 547 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000062",
+    "customer_id":"CUS-000098",
+    "document_id":"DOC-CUS-000098-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 296 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000063",
+    "customer_id":"CUS-000101",
+    "document_id":"DOC-CUS-000101-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 422 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000064",
+    "customer_id":"CUS-000101",
+    "document_id":"DOC-CUS-000101-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 125 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000065",
+    "customer_id":"CUS-000104",
+    "document_id":"DOC-CUS-000104-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 319 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000066",
+    "customer_id":"CUS-000104",
+    "document_id":"DOC-CUS-000104-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 242 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000067",
+    "customer_id":"CUS-000106",
+    "document_id":"DOC-CUS-000106-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 321 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000068",
+    "customer_id":"CUS-000106",
+    "document_id":"DOC-CUS-000106-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 122 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000069",
+    "customer_id":"CUS-000109",
+    "document_id":"DOC-CUS-000109-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 436 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000070",
+    "customer_id":"CUS-000110",
+    "document_id":"DOC-CUS-000110-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 421 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000071",
+    "customer_id":"CUS-000111",
+    "document_id":"DOC-CUS-000111-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 248 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000072",
+    "customer_id":"CUS-000112",
+    "document_id":"DOC-CUS-000112-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 198 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000073",
+    "customer_id":"CUS-000113",
+    "document_id":"DOC-CUS-000113-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 913 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000074",
+    "customer_id":"CUS-000115",
+    "document_id":"DOC-CUS-000115-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 103 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000075",
+    "customer_id":"CUS-000116",
+    "document_id":"DOC-CUS-000116-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 199 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000076",
+    "customer_id":"CUS-000120",
+    "document_id":"DOC-CUS-000120-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 273 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000077",
+    "customer_id":"CUS-000123",
+    "document_id":"DOC-CUS-000123-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 44 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000078",
+    "customer_id":"CUS-000123",
+    "document_id":"DOC-CUS-000123-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 8 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000079",
+    "customer_id":"CUS-000124",
+    "document_id":"DOC-CUS-000124-003",
+    "alert_type":"DOCUMENT_EXPIRING",
+    "severity":"MEDIUM",
+    "message":"ADDRESS_PROOF expires in 13 days",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000080",
+    "customer_id":"CUS-000129",
+    "document_id":"DOC-CUS-000129-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 130 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000081",
+    "customer_id":"CUS-000130",
+    "document_id":"DOC-CUS-000130-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 19 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000082",
+    "customer_id":"CUS-000130",
+    "document_id":"DOC-CUS-000130-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 472 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000083",
+    "customer_id":"CUS-000133",
+    "document_id":"DOC-CUS-000133-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"BUSINESS_REGISTRATION expired 338 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000084",
+    "customer_id":"CUS-000134",
+    "document_id":"DOC-CUS-000134-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 50 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000085",
+    "customer_id":"CUS-000134",
+    "document_id":"DOC-CUS-000134-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 180 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000086",
+    "customer_id":"CUS-000137",
+    "document_id":"DOC-CUS-000137-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 30 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000087",
+    "customer_id":"CUS-000138",
+    "document_id":"DOC-CUS-000138-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 433 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000088",
+    "customer_id":"CUS-000138",
+    "document_id":"DOC-CUS-000138-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 30 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000089",
+    "customer_id":"CUS-000141",
+    "document_id":"DOC-CUS-000141-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 123 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000090",
+    "customer_id":"CUS-000143",
+    "document_id":"DOC-CUS-000143-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 303 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000091",
+    "customer_id":"CUS-000145",
+    "document_id":"DOC-CUS-000145-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 194 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000092",
+    "customer_id":"CUS-000145",
+    "document_id":"DOC-CUS-000145-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 357 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000093",
+    "customer_id":"CUS-000147",
+    "document_id":"DOC-CUS-000147-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 8 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000094",
+    "customer_id":"CUS-000151",
+    "document_id":"DOC-CUS-000151-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 299 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000095",
+    "customer_id":"CUS-000151",
+    "document_id":"DOC-CUS-000151-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 883 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000096",
+    "customer_id":"CUS-000152",
+    "document_id":"DOC-CUS-000152-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 444 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000097",
+    "customer_id":"CUS-000154",
+    "document_id":"DOC-CUS-000154-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 90 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000098",
+    "customer_id":"CUS-000155",
+    "document_id":"DOC-CUS-000155-001",
+    "alert_type":"DOCUMENT_EXPIRING",
+    "severity":"MEDIUM",
+    "message":"PAN expires in 9 days",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000099",
+    "customer_id":"CUS-000156",
+    "document_id":"DOC-CUS-000156-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 460 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000100",
+    "customer_id":"CUS-000158",
+    "document_id":"DOC-CUS-000158-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 324 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000101",
+    "customer_id":"CUS-000159",
+    "document_id":"DOC-CUS-000159-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 14 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000102",
+    "customer_id":"CUS-000159",
+    "document_id":"DOC-CUS-000159-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 34 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000103",
+    "customer_id":"CUS-000160",
+    "document_id":"DOC-CUS-000160-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 173 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000104",
+    "customer_id":"CUS-000164",
+    "document_id":"DOC-CUS-000164-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 317 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000105",
+    "customer_id":"CUS-000166",
+    "document_id":"DOC-CUS-000166-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 334 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000106",
+    "customer_id":"CUS-000172",
+    "document_id":"DOC-CUS-000172-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 254 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000107",
+    "customer_id":"CUS-000172",
+    "document_id":"DOC-CUS-000172-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 466 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000108",
+    "customer_id":"CUS-000176",
+    "document_id":"DOC-CUS-000176-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 407 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000109",
+    "customer_id":"CUS-000177",
+    "document_id":"DOC-CUS-000177-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 38 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000110",
+    "customer_id":"CUS-000178",
+    "document_id":"DOC-CUS-000178-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 228 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000111",
+    "customer_id":"CUS-000180",
+    "document_id":"DOC-CUS-000180-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 264 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000112",
+    "customer_id":"CUS-000181",
+    "document_id":"DOC-CUS-000181-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 970 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000113",
+    "customer_id":"CUS-000185",
+    "document_id":"DOC-CUS-000185-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 321 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000114",
+    "customer_id":"CUS-000186",
+    "document_id":"DOC-CUS-000186-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 540 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000115",
+    "customer_id":"CUS-000187",
+    "document_id":"DOC-CUS-000187-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 545 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000116",
+    "customer_id":"CUS-000188",
+    "document_id":"DOC-CUS-000188-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 447 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000117",
+    "customer_id":"CUS-000188",
+    "document_id":"DOC-CUS-000188-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 440 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000118",
+    "customer_id":"CUS-000191",
+    "document_id":"DOC-CUS-000191-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 141 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000119",
+    "customer_id":"CUS-000192",
+    "document_id":"DOC-CUS-000192-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 152 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000120",
+    "customer_id":"CUS-000195",
+    "document_id":"DOC-CUS-000195-003",
+    "alert_type":"DOCUMENT_EXPIRING",
+    "severity":"MEDIUM",
+    "message":"ADDRESS_PROOF expires in 13 days",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000121",
+    "customer_id":"CUS-000197",
+    "document_id":"DOC-CUS-000197-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 413 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000122",
+    "customer_id":"CUS-000198",
+    "document_id":"DOC-CUS-000198-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 228 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000123",
+    "customer_id":"CUS-000202",
+    "document_id":"DOC-CUS-000202-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 177 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000124",
+    "customer_id":"CUS-000203",
+    "document_id":"DOC-CUS-000203-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 256 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000125",
+    "customer_id":"CUS-000204",
+    "document_id":"DOC-CUS-000204-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 818 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000126",
+    "customer_id":"CUS-000208",
+    "document_id":"DOC-CUS-000208-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 238 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000127",
+    "customer_id":"CUS-000208",
+    "document_id":"DOC-CUS-000208-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 56 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000128",
+    "customer_id":"CUS-000212",
+    "document_id":"DOC-CUS-000212-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 270 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000129",
+    "customer_id":"CUS-000218",
+    "document_id":"DOC-CUS-000218-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 232 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000130",
+    "customer_id":"CUS-000219",
+    "document_id":"DOC-CUS-000219-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 560 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000131",
+    "customer_id":"CUS-000219",
+    "document_id":"DOC-CUS-000219-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 242 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000132",
+    "customer_id":"CUS-000220",
+    "document_id":"DOC-CUS-000220-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 628 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000133",
+    "customer_id":"CUS-000224",
+    "document_id":"DOC-CUS-000224-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 155 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000134",
+    "customer_id":"CUS-000225",
+    "document_id":"DOC-CUS-000225-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 363 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000135",
+    "customer_id":"CUS-000226",
+    "document_id":"DOC-CUS-000226-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 309 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000136",
+    "customer_id":"CUS-000226",
+    "document_id":"DOC-CUS-000226-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 265 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000137",
+    "customer_id":"CUS-000228",
+    "document_id":"DOC-CUS-000228-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 321 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000138",
+    "customer_id":"CUS-000229",
+    "document_id":"DOC-CUS-000229-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 940 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000139",
+    "customer_id":"CUS-000232",
+    "document_id":"DOC-CUS-000232-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 330 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000140",
+    "customer_id":"CUS-000233",
+    "document_id":"DOC-CUS-000233-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 122 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000141",
+    "customer_id":"CUS-000236",
+    "document_id":"DOC-CUS-000236-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 774 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000142",
+    "customer_id":"CUS-000237",
+    "document_id":"DOC-CUS-000237-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 51 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000143",
+    "customer_id":"CUS-000237",
+    "document_id":"DOC-CUS-000237-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 371 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000144",
+    "customer_id":"CUS-000237",
+    "document_id":"DOC-CUS-000237-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 874 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000145",
+    "customer_id":"CUS-000238",
+    "document_id":"DOC-CUS-000238-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 59 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000146",
+    "customer_id":"CUS-000239",
+    "document_id":"DOC-CUS-000239-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 471 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000147",
+    "customer_id":"CUS-000243",
+    "document_id":"DOC-CUS-000243-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 480 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000148",
+    "customer_id":"CUS-000243",
+    "document_id":"DOC-CUS-000243-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 400 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000149",
+    "customer_id":"CUS-000245",
+    "document_id":"DOC-CUS-000245-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 378 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000150",
+    "customer_id":"CUS-000245",
+    "document_id":"DOC-CUS-000245-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 344 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000151",
+    "customer_id":"CUS-000246",
+    "document_id":"DOC-CUS-000246-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 217 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000152",
+    "customer_id":"CUS-000248",
+    "document_id":"DOC-CUS-000248-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 55 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000153",
+    "customer_id":"CUS-000249",
+    "document_id":"DOC-CUS-000249-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 298 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000154",
+    "customer_id":"CUS-000253",
+    "document_id":"DOC-CUS-000253-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 324 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000155",
+    "customer_id":"CUS-000255",
+    "document_id":"DOC-CUS-000255-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 208 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000156",
+    "customer_id":"CUS-000258",
+    "document_id":"DOC-CUS-000258-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 312 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000157",
+    "customer_id":"CUS-000259",
+    "document_id":"DOC-CUS-000259-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 42 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000158",
+    "customer_id":"CUS-000262",
+    "document_id":"DOC-CUS-000262-003",
+    "alert_type":"DOCUMENT_EXPIRING",
+    "severity":"MEDIUM",
+    "message":"ADDRESS_PROOF expires in 27 days",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000159",
+    "customer_id":"CUS-000262",
+    "document_id":"DOC-CUS-000262-005",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 227 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000160",
+    "customer_id":"CUS-000263",
+    "document_id":"DOC-CUS-000263-006",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 171 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000161",
+    "customer_id":"CUS-000264",
+    "document_id":"DOC-CUS-000264-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 117 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000162",
+    "customer_id":"CUS-000268",
+    "document_id":"DOC-CUS-000268-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 283 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000163",
+    "customer_id":"CUS-000268",
+    "document_id":"DOC-CUS-000268-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 248 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000164",
+    "customer_id":"CUS-000269",
+    "document_id":"DOC-CUS-000269-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 233 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000165",
+    "customer_id":"CUS-000271",
+    "document_id":"DOC-CUS-000271-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"TAX_CERTIFICATE expired 171 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000166",
+    "customer_id":"CUS-000272",
+    "document_id":"DOC-CUS-000272-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 140 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000167",
+    "customer_id":"CUS-000273",
+    "document_id":"DOC-CUS-000273-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 217 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000168",
+    "customer_id":"CUS-000274",
+    "document_id":"DOC-CUS-000274-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 25 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000169",
+    "customer_id":"CUS-000276",
+    "document_id":"DOC-CUS-000276-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 143 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000170",
+    "customer_id":"CUS-000278",
+    "document_id":"DOC-CUS-000278-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 459 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000171",
+    "customer_id":"CUS-000279",
+    "document_id":"DOC-CUS-000279-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 366 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000172",
+    "customer_id":"CUS-000279",
+    "document_id":"DOC-CUS-000279-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 809 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000173",
+    "customer_id":"CUS-000281",
+    "document_id":"DOC-CUS-000281-003",
+    "alert_type":"DOCUMENT_EXPIRING",
+    "severity":"MEDIUM",
+    "message":"ADDRESS_PROOF expires in 13 days",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000174",
+    "customer_id":"CUS-000283",
+    "document_id":"DOC-CUS-000283-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 265 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000175",
+    "customer_id":"CUS-000283",
+    "document_id":"DOC-CUS-000283-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 33 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000176",
+    "customer_id":"CUS-000287",
+    "document_id":"DOC-CUS-000287-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 44 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000177",
+    "customer_id":"CUS-000290",
+    "document_id":"DOC-CUS-000290-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 170 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000178",
+    "customer_id":"CUS-000294",
+    "document_id":"DOC-CUS-000294-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 121 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000179",
+    "customer_id":"CUS-000294",
+    "document_id":"DOC-CUS-000294-004",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PASSPORT expired 447 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000180",
+    "customer_id":"CUS-000295",
+    "document_id":"DOC-CUS-000295-003",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"ADDRESS_PROOF expired 83 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000181",
+    "customer_id":"CUS-000297",
+    "document_id":"DOC-CUS-000297-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 278 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000182",
+    "customer_id":"CUS-000298",
+    "document_id":"DOC-CUS-000298-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 570 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000183",
+    "customer_id":"CUS-000298",
+    "document_id":"DOC-CUS-000298-002",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"IDENTITY_PROOF expired 755 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  },
+  {
+    "alert_id":"ALT-2026-000184",
+    "customer_id":"CUS-000299",
+    "document_id":"DOC-CUS-000299-001",
+    "alert_type":"DOCUMENT_EXPIRED",
+    "severity":"HIGH",
+    "message":"PAN expired 780 days ago",
+    "created_at":"2026-10-31",
+    "alert_status":"OPEN"
+  }
+]

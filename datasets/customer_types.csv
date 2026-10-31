@@ -1,0 +1,3 @@
+customer_type_id,type_name,description
+1,INDIVIDUAL,Natural person customer
+2,BUSINESS,Legal entity or business customer

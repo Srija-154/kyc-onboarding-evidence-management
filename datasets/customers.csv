@@ -1,0 +1,301 @@
+customer_id,full_name,email,customer_type_id,date_of_birth,registration_date,country,lifecycle_status
+CUS-000001,"Gomez, Campbell and Thompson",customer000001@example.test,2,,2022-12-30,IN,REJECTED
+CUS-000002,Hall Inc,customer000002@example.test,2,,2023-06-18,IN,ONBOARDING
+CUS-000003,"Petersen, Anderson and Gonzalez",customer000003@example.test,2,,2023-07-26,IN,APPROVED
+CUS-000004,Fowler-Gallegos,customer000004@example.test,2,,2024-10-13,IN,ONBOARDING
+CUS-000005,"Rodriguez, Lee and Hernandez",customer000005@example.test,2,,2023-07-19,IN,APPROVED
+CUS-000006,Robinson Group,customer000006@example.test,2,,2025-08-08,IN,PENDING_REVIEW
+CUS-000007,Chapman LLC,customer000007@example.test,2,,2025-02-10,IN,APPROVED
+CUS-000008,Richards Group,customer000008@example.test,2,,2025-09-07,IN,PENDING_REVIEW
+CUS-000009,Brown and Sons,customer000009@example.test,2,,2024-05-23,IN,APPROVED
+CUS-000010,Ellis Inc,customer000010@example.test,2,,2025-11-30,IN,REJECTED
+CUS-000011,"Walker, Mora and Cook",customer000011@example.test,2,,2024-10-09,IN,ONBOARDING
+CUS-000012,Kim Group,customer000012@example.test,2,,2026-10-22,IN,APPROVED
+CUS-000013,Simmons Ltd,customer000013@example.test,2,,2025-08-14,IN,APPROVED
+CUS-000014,Martinez Group,customer000014@example.test,2,,2025-05-07,IN,ONBOARDING
+CUS-000015,"Clark, Brown and Jones",customer000015@example.test,2,,2022-12-22,IN,APPROVED
+CUS-000016,Evans and Sons,customer000016@example.test,2,,2025-02-22,IN,ONBOARDING
+CUS-000017,Garcia Group,customer000017@example.test,2,,2026-04-26,IN,APPROVED
+CUS-000018,Carroll Group,customer000018@example.test,2,,2025-06-11,IN,PENDING_REVIEW
+CUS-000019,Garrett-Stevenson,customer000019@example.test,2,,2024-12-13,IN,APPROVED
+CUS-000020,Diaz PLC,customer000020@example.test,2,,2023-09-21,IN,PENDING_REVIEW
+CUS-000021,Smith-Castillo,customer000021@example.test,2,,2023-07-30,IN,APPROVED
+CUS-000022,Dyer Ltd,customer000022@example.test,2,,2026-07-01,IN,REJECTED
+CUS-000023,Torres PLC,customer000023@example.test,2,,2025-06-16,IN,APPROVED
+CUS-000024,"Rodgers, Ortega and Simon",customer000024@example.test,2,,2025-06-03,IN,PENDING_REVIEW
+CUS-000025,Mcdonald-Richard,customer000025@example.test,2,,2025-12-17,IN,APPROVED
+CUS-000026,Johnson LLC,customer000026@example.test,2,,2023-05-03,IN,APPROVED
+CUS-000027,"Lawrence, Browning and Blair",customer000027@example.test,2,,2024-11-07,IN,APPROVED
+CUS-000028,Hughes LLC,customer000028@example.test,2,,2023-12-15,IN,APPROVED
+CUS-000029,Smith-Daniel,customer000029@example.test,2,,2023-11-13,IN,APPROVED
+CUS-000030,"Harris, Odom and Davidson",customer000030@example.test,2,,2025-02-06,IN,APPROVED
+CUS-000031,"Grant, Norris and Hunt",customer000031@example.test,2,,2023-01-04,IN,ONBOARDING
+CUS-000032,"Frost, Ramirez and Beck",customer000032@example.test,2,,2025-05-20,IN,ONBOARDING
+CUS-000033,Stewart-Gould,customer000033@example.test,2,,2025-02-14,IN,APPROVED
+CUS-000034,"Roth, Kelly and Navarro",customer000034@example.test,2,,2023-07-04,IN,APPROVED
+CUS-000035,Thompson-Mason,customer000035@example.test,2,,2023-02-12,IN,APPROVED
+CUS-000036,Robertson-Hayes,customer000036@example.test,2,,2023-03-27,IN,ONBOARDING
+CUS-000037,"Bright, Johnson and Bowman",customer000037@example.test,2,,2024-01-07,IN,APPROVED
+CUS-000038,Holt-Adams,customer000038@example.test,2,,2025-11-18,IN,PENDING_REVIEW
+CUS-000039,"Chang, Dixon and Flowers",customer000039@example.test,2,,2022-12-12,IN,ONBOARDING
+CUS-000040,Pope Group,customer000040@example.test,2,,2024-04-27,IN,APPROVED
+CUS-000041,Timothy Hoffman,customer000041@example.test,1,1985-11-22,2025-02-14,IN,APPROVED
+CUS-000042,David Knight,customer000042@example.test,1,1995-11-16,2023-11-07,IN,APPROVED
+CUS-000043,Jeffrey Ray,customer000043@example.test,1,1987-12-01,2026-01-09,IN,PENDING_REVIEW
+CUS-000044,Jared Drake,customer000044@example.test,1,1993-09-25,2026-02-21,IN,PENDING_REVIEW
+CUS-000045,Shawn Lawson,customer000045@example.test,1,2000-06-02,2026-07-07,IN,APPROVED
+CUS-000046,Nicholas Ball,customer000046@example.test,1,1987-01-05,2024-05-21,IN,ONBOARDING
+CUS-000047,Joseph Brown,customer000047@example.test,1,1977-03-22,2024-03-26,IN,ONBOARDING
+CUS-000048,Brittany Henry,customer000048@example.test,1,1987-08-06,2023-04-02,IN,APPROVED
+CUS-000049,Jamie Brown,customer000049@example.test,1,1979-12-04,2025-12-11,IN,APPROVED
+CUS-000050,Kara Hickman,customer000050@example.test,1,1987-12-11,2023-04-29,IN,APPROVED
+CUS-000051,Jennifer Coleman,customer000051@example.test,1,1988-11-14,2023-09-07,IN,PENDING_REVIEW
+CUS-000052,Patrick Cook,customer000052@example.test,1,1978-09-09,2023-01-02,IN,ONBOARDING
+CUS-000053,Robin Williams DDS,customer000053@example.test,1,2004-02-12,2024-02-09,IN,APPROVED
+CUS-000054,Daniel Martinez,customer000054@example.test,1,1985-12-21,2023-03-17,IN,APPROVED
+CUS-000055,Christopher Mendoza,customer000055@example.test,1,2004-02-17,2023-01-26,IN,PENDING_REVIEW
+CUS-000056,James Brown,customer000056@example.test,1,1990-08-02,2024-01-08,IN,APPROVED
+CUS-000057,Charles Petty,customer000057@example.test,1,2000-07-23,2026-06-12,IN,ONBOARDING
+CUS-000058,Jorge Stevens,customer000058@example.test,1,1984-07-08,2024-09-13,IN,APPROVED
+CUS-000059,Jonathon Duncan,customer000059@example.test,1,1999-05-23,2025-03-25,IN,APPROVED
+CUS-000060,Teresa Combs,customer000060@example.test,1,2006-01-19,2024-06-17,IN,PENDING_REVIEW
+CUS-000061,Michael Hardin,customer000061@example.test,1,2004-09-12,2023-08-11,IN,ONBOARDING
+CUS-000062,Ralph Hawkins,customer000062@example.test,1,1993-03-15,2023-01-10,IN,APPROVED
+CUS-000063,Melissa Martin,customer000063@example.test,1,2008-06-04,2025-12-02,IN,APPROVED
+CUS-000064,Roberto Stone,customer000064@example.test,1,1980-01-28,2023-07-11,IN,APPROVED
+CUS-000065,Tina Ponce,customer000065@example.test,1,1975-06-16,2023-10-03,IN,APPROVED
+CUS-000066,Juan Nelson,customer000066@example.test,1,1979-07-27,2022-12-10,IN,PENDING_REVIEW
+CUS-000067,Dustin Kelly,customer000067@example.test,1,1983-03-08,2023-03-19,IN,REJECTED
+CUS-000068,Casey Gilbert,customer000068@example.test,1,1989-12-17,2022-11-28,IN,PENDING_REVIEW
+CUS-000069,Jessica White,customer000069@example.test,1,1981-08-15,2024-01-16,IN,APPROVED
+CUS-000070,Shaun Stewart,customer000070@example.test,1,2004-09-05,2026-07-15,IN,ONBOARDING
+CUS-000071,Walter Golden,customer000071@example.test,1,1981-02-09,2025-04-08,IN,APPROVED
+CUS-000072,Michael Martinez,customer000072@example.test,1,2012-09-17,2025-08-05,IN,ONBOARDING
+CUS-000073,Harry Bailey,customer000073@example.test,1,1994-06-27,2025-09-08,IN,APPROVED
+CUS-000074,Gina Gonzalez,customer000074@example.test,1,1993-12-07,2024-06-01,IN,ONBOARDING
+CUS-000075,Mr. Kyle Fritz,customer000075@example.test,1,1986-04-24,2024-10-06,IN,APPROVED
+CUS-000076,Marc Chen,customer000076@example.test,1,1996-10-02,2023-03-24,IN,PENDING_REVIEW
+CUS-000077,Alice Clarke,customer000077@example.test,1,1977-06-11,2022-09-23,IN,ONBOARDING
+CUS-000078,Gary Campbell,customer000078@example.test,1,1998-01-12,2024-01-28,IN,PENDING_REVIEW
+CUS-000079,Michael James,customer000079@example.test,1,1973-10-28,2023-07-13,IN,PENDING_REVIEW
+CUS-000080,Brian Warren,customer000080@example.test,1,1984-06-21,2023-09-08,IN,PENDING_REVIEW
+CUS-000081,Lindsay Thomas,customer000081@example.test,1,1979-08-17,2022-11-05,IN,APPROVED
+CUS-000082,Hannah Ramirez,customer000082@example.test,1,1987-12-27,2026-07-06,IN,PENDING_REVIEW
+CUS-000083,Paul Andrews,customer000083@example.test,1,1979-08-13,2025-06-23,IN,PENDING_REVIEW
+CUS-000084,Kristin Stanton,customer000084@example.test,1,2006-05-26,2025-02-24,IN,APPROVED
+CUS-000085,Alexis Rodriguez,customer000085@example.test,1,2006-12-01,2025-08-20,IN,APPROVED
+CUS-000086,Amanda Dawson,customer000086@example.test,1,2000-11-28,2023-11-05,IN,APPROVED
+CUS-000087,Frank Brooks,customer000087@example.test,1,1992-05-08,2025-10-03,IN,APPROVED
+CUS-000088,Robert Johns,customer000088@example.test,1,2010-04-18,2024-09-10,IN,PENDING_REVIEW
+CUS-000089,Gregory Neal,customer000089@example.test,1,2007-01-23,2026-08-23,IN,PENDING_REVIEW
+CUS-000090,Holly Hopkins,customer000090@example.test,1,2005-12-31,2026-07-25,IN,ONBOARDING
+CUS-000091,Amanda Lawson,customer000091@example.test,1,1979-10-29,2025-12-13,IN,REJECTED
+CUS-000092,Daniel Chan,customer000092@example.test,1,2006-07-26,2023-04-03,IN,APPROVED
+CUS-000093,Anthony Ross,customer000093@example.test,1,2010-12-14,2023-05-29,IN,ONBOARDING
+CUS-000094,Scott Martin,customer000094@example.test,1,1994-05-16,2023-04-26,IN,ONBOARDING
+CUS-000095,Stephanie Mclaughlin,customer000095@example.test,1,1975-09-01,2026-05-01,IN,APPROVED
+CUS-000096,Stephen Humphrey,customer000096@example.test,1,1986-01-07,2023-11-26,IN,APPROVED
+CUS-000097,Kathryn Brown,customer000097@example.test,1,1983-03-10,2023-10-09,IN,PENDING_REVIEW
+CUS-000098,Emily Cook,customer000098@example.test,1,1975-12-19,2024-05-07,IN,PENDING_REVIEW
+CUS-000099,Christopher Sexton,customer000099@example.test,1,1989-06-10,2025-12-16,IN,ONBOARDING
+CUS-000100,Crystal Mccormick,customer000100@example.test,1,1980-10-10,2025-12-14,IN,ONBOARDING
+CUS-000101,William Jensen,customer000101@example.test,1,1977-10-23,2023-01-19,IN,ONBOARDING
+CUS-000102,Jennifer Collins MD,customer000102@example.test,1,1973-01-13,2023-02-04,IN,PENDING_REVIEW
+CUS-000103,Andrew Harmon,customer000103@example.test,1,1983-10-24,2023-05-27,IN,PENDING_REVIEW
+CUS-000104,Richard Franco,customer000104@example.test,1,1992-06-14,2024-03-06,IN,APPROVED
+CUS-000105,Nicholas Conway,customer000105@example.test,1,2010-11-19,2024-02-14,IN,PENDING_REVIEW
+CUS-000106,Courtney Brown,customer000106@example.test,1,2009-04-17,2024-05-11,IN,REJECTED
+CUS-000107,Alexander Simon,customer000107@example.test,1,2011-11-27,2025-10-27,IN,APPROVED
+CUS-000108,Michael Cochran,customer000108@example.test,1,1985-01-26,2024-01-29,IN,APPROVED
+CUS-000109,Samuel Olsen,customer000109@example.test,1,2006-08-11,2023-09-28,IN,APPROVED
+CUS-000110,Leah Nixon,customer000110@example.test,1,2005-01-31,2025-06-29,IN,APPROVED
+CUS-000111,Jesse Bennett,customer000111@example.test,1,1989-09-22,2023-04-10,IN,APPROVED
+CUS-000112,Nancy Wilson,customer000112@example.test,1,2001-03-05,2024-02-21,IN,ONBOARDING
+CUS-000113,Angela Mccoy,customer000113@example.test,1,2004-09-20,2023-03-20,IN,APPROVED
+CUS-000114,Jennifer Parker,customer000114@example.test,1,1998-02-08,2023-10-15,IN,APPROVED
+CUS-000115,Christopher Jackson,customer000115@example.test,1,1998-06-10,2025-11-29,IN,ONBOARDING
+CUS-000116,Whitney Wright,customer000116@example.test,1,1980-03-23,2026-04-10,IN,APPROVED
+CUS-000117,John Johnson,customer000117@example.test,1,1992-07-17,2025-03-25,IN,APPROVED
+CUS-000118,Derek Mendez,customer000118@example.test,1,1984-02-21,2023-07-21,IN,APPROVED
+CUS-000119,Justin Hendricks,customer000119@example.test,1,1978-06-28,2024-02-05,IN,PENDING_REVIEW
+CUS-000120,Brenda Roberts,customer000120@example.test,1,2005-04-12,2023-11-17,IN,ONBOARDING
+CUS-000121,Nicholas Patterson,customer000121@example.test,1,1983-01-27,2022-12-02,IN,ONBOARDING
+CUS-000122,Sarah Chavez,customer000122@example.test,1,2009-06-16,2025-03-23,IN,ONBOARDING
+CUS-000123,Lori Campbell,customer000123@example.test,1,1975-12-07,2025-07-29,IN,APPROVED
+CUS-000124,Jose Daniels,customer000124@example.test,1,2010-10-28,2025-12-06,IN,APPROVED
+CUS-000125,James Harris,customer000125@example.test,1,1999-06-18,2023-05-20,IN,REJECTED
+CUS-000126,Kathryn Blair,customer000126@example.test,1,1979-01-01,2026-10-22,IN,APPROVED
+CUS-000127,Lorraine Taylor,customer000127@example.test,1,2008-07-08,2026-08-16,IN,APPROVED
+CUS-000128,Tyler Davis,customer000128@example.test,1,2009-01-28,2025-11-26,IN,APPROVED
+CUS-000129,Erica Mclean,customer000129@example.test,1,1983-09-16,2026-08-20,IN,PENDING_REVIEW
+CUS-000130,Emily Keller,customer000130@example.test,1,1979-08-09,2026-08-22,IN,PENDING_REVIEW
+CUS-000131,George Walker,customer000131@example.test,1,2004-03-29,2025-04-20,IN,REJECTED
+CUS-000132,Lisa Henderson,customer000132@example.test,1,2002-04-07,2023-10-16,IN,APPROVED
+CUS-000133,Brandon Terry,customer000133@example.test,1,2007-03-18,2026-06-03,IN,ONBOARDING
+CUS-000134,Kyle Meyer,customer000134@example.test,1,2009-12-29,2026-07-14,IN,APPROVED
+CUS-000135,Kenneth Keith,customer000135@example.test,1,1994-10-30,2024-08-19,IN,ONBOARDING
+CUS-000136,Scott Parker,customer000136@example.test,1,1999-09-25,2023-04-06,IN,APPROVED
+CUS-000137,Matthew Estrada,customer000137@example.test,1,1974-07-08,2025-08-27,IN,APPROVED
+CUS-000138,William Jackson,customer000138@example.test,1,2011-10-21,2026-01-14,IN,APPROVED
+CUS-000139,James Warren,customer000139@example.test,1,1998-10-15,2025-02-07,IN,ONBOARDING
+CUS-000140,Dr. Nicholas Jackson,customer000140@example.test,1,1987-12-29,2023-02-01,IN,PENDING_REVIEW
+CUS-000141,Debra Valencia,customer000141@example.test,1,2004-12-21,2025-02-22,IN,APPROVED
+CUS-000142,Shirley Leonard,customer000142@example.test,1,2005-06-30,2025-04-06,IN,ONBOARDING
+CUS-000143,Jennifer Brown,customer000143@example.test,1,2012-04-24,2026-01-25,IN,APPROVED
+CUS-000144,Theresa Wright,customer000144@example.test,1,2011-05-10,2022-10-15,IN,PENDING_REVIEW
+CUS-000145,Joseph Vance,customer000145@example.test,1,1986-11-16,2023-10-17,IN,APPROVED
+CUS-000146,Jeffrey Garcia,customer000146@example.test,1,1989-05-09,2023-12-23,IN,PENDING_REVIEW
+CUS-000147,Jonathan Sullivan,customer000147@example.test,1,1997-02-11,2022-09-24,IN,APPROVED
+CUS-000148,Jessica Walker,customer000148@example.test,1,2001-03-13,2023-12-30,IN,APPROVED
+CUS-000149,Jeremy Gonzalez,customer000149@example.test,1,2002-02-15,2026-10-05,IN,APPROVED
+CUS-000150,Angela Jones,customer000150@example.test,1,1989-07-23,2026-06-02,IN,APPROVED
+CUS-000151,Steven Hayes,customer000151@example.test,1,2001-11-16,2024-02-09,IN,APPROVED
+CUS-000152,Kimberly Bell,customer000152@example.test,1,2009-11-25,2023-09-10,IN,ONBOARDING
+CUS-000153,Sylvia Ryan,customer000153@example.test,1,1983-05-05,2023-11-11,IN,APPROVED
+CUS-000154,Christine Lyons,customer000154@example.test,1,2006-09-06,2025-11-23,IN,APPROVED
+CUS-000155,Keith Leonard,customer000155@example.test,1,2008-02-22,2023-07-29,IN,APPROVED
+CUS-000156,Mary Taylor,customer000156@example.test,1,1997-02-14,2023-10-31,IN,APPROVED
+CUS-000157,Peter Roberts,customer000157@example.test,1,1993-03-26,2023-10-17,IN,ONBOARDING
+CUS-000158,Christopher Arias,customer000158@example.test,1,1979-04-11,2025-11-07,IN,ONBOARDING
+CUS-000159,Rickey Edwards,customer000159@example.test,1,1973-03-10,2022-09-23,IN,PENDING_REVIEW
+CUS-000160,Anna Dillon,customer000160@example.test,1,2001-08-17,2023-06-21,IN,REJECTED
+CUS-000161,Laura Shields,customer000161@example.test,1,2003-12-27,2025-01-31,IN,APPROVED
+CUS-000162,Jacqueline Rodriguez,customer000162@example.test,1,1992-09-09,2023-05-31,IN,PENDING_REVIEW
+CUS-000163,Sandra Martin,customer000163@example.test,1,2001-08-29,2022-12-23,IN,APPROVED
+CUS-000164,Robert Hanson,customer000164@example.test,1,2000-08-15,2026-07-25,IN,PENDING_REVIEW
+CUS-000165,Elizabeth Schneider,customer000165@example.test,1,1981-10-02,2025-02-22,IN,APPROVED
+CUS-000166,Alexandra Aguilar,customer000166@example.test,1,1995-02-17,2025-05-14,IN,APPROVED
+CUS-000167,Kenneth Collins,customer000167@example.test,1,2010-08-18,2024-03-07,IN,PENDING_REVIEW
+CUS-000168,Antonio Lopez,customer000168@example.test,1,1974-07-02,2026-08-22,IN,APPROVED
+CUS-000169,Angela Rojas,customer000169@example.test,1,1986-12-15,2024-09-04,IN,ONBOARDING
+CUS-000170,Margaret Cochran,customer000170@example.test,1,1981-10-29,2024-02-06,IN,APPROVED
+CUS-000171,Stacy Phillips,customer000171@example.test,1,1999-09-17,2023-07-26,IN,APPROVED
+CUS-000172,Kenneth Alvarado,customer000172@example.test,1,2006-01-05,2023-06-24,IN,PENDING_REVIEW
+CUS-000173,Laura Stein,customer000173@example.test,1,1997-07-22,2023-11-15,IN,APPROVED
+CUS-000174,Deborah Parker,customer000174@example.test,1,1999-01-26,2023-10-30,IN,APPROVED
+CUS-000175,Shannon Johnson,customer000175@example.test,1,2000-02-12,2024-11-06,IN,APPROVED
+CUS-000176,Michelle Sampson,customer000176@example.test,1,1991-10-11,2024-10-25,IN,APPROVED
+CUS-000177,Carl Strickland,customer000177@example.test,1,1979-04-15,2023-11-18,IN,APPROVED
+CUS-000178,Robert Chapman,customer000178@example.test,1,1976-08-16,2025-03-25,IN,PENDING_REVIEW
+CUS-000179,Cristina Huynh,customer000179@example.test,1,2004-01-08,2023-05-03,IN,APPROVED
+CUS-000180,Joel Ramos,customer000180@example.test,1,1996-10-14,2025-01-10,IN,PENDING_REVIEW
+CUS-000181,Barbara Patton,customer000181@example.test,1,1988-09-17,2026-08-15,IN,PENDING_REVIEW
+CUS-000182,Sean Young,customer000182@example.test,1,1988-09-23,2024-07-09,IN,APPROVED
+CUS-000183,Jordan Miller,customer000183@example.test,1,2005-09-23,2024-06-14,IN,PENDING_REVIEW
+CUS-000184,David Miller,customer000184@example.test,1,1974-07-20,2023-11-01,IN,APPROVED
+CUS-000185,Shannon Bell,customer000185@example.test,1,1993-06-06,2024-10-31,IN,PENDING_REVIEW
+CUS-000186,Sandra Carson,customer000186@example.test,1,2007-02-12,2022-12-15,IN,ONBOARDING
+CUS-000187,Rebecca Tran,customer000187@example.test,1,1993-07-17,2026-01-31,IN,APPROVED
+CUS-000188,Timothy Vasquez,customer000188@example.test,1,1993-09-06,2023-01-08,IN,APPROVED
+CUS-000189,David Garza,customer000189@example.test,1,1973-04-10,2023-06-05,IN,PENDING_REVIEW
+CUS-000190,Lori Compton,customer000190@example.test,1,1978-11-03,2023-06-09,IN,REJECTED
+CUS-000191,Corey Chase,customer000191@example.test,1,2004-10-30,2026-10-15,IN,APPROVED
+CUS-000192,Lori Anderson,customer000192@example.test,1,1982-03-10,2023-06-03,IN,ONBOARDING
+CUS-000193,Sarah Fitzgerald,customer000193@example.test,1,1982-10-29,2023-10-01,IN,APPROVED
+CUS-000194,Kenneth Ayers,customer000194@example.test,1,2005-10-13,2023-03-25,IN,REJECTED
+CUS-000195,Jordan Long,customer000195@example.test,1,1975-06-27,2024-10-29,IN,PENDING_REVIEW
+CUS-000196,Craig King,customer000196@example.test,1,2011-09-18,2023-03-27,IN,PENDING_REVIEW
+CUS-000197,Nancy Murray,customer000197@example.test,1,1984-12-05,2025-07-30,IN,APPROVED
+CUS-000198,Joshua Luna,customer000198@example.test,1,2010-04-22,2023-07-26,IN,APPROVED
+CUS-000199,Martin Johnson,customer000199@example.test,1,1991-08-30,2024-12-08,IN,APPROVED
+CUS-000200,Brandon Conway,customer000200@example.test,1,2008-04-28,2025-01-16,IN,PENDING_REVIEW
+CUS-000201,James Chang,customer000201@example.test,1,2001-04-16,2025-10-24,IN,ONBOARDING
+CUS-000202,Kevin Villanueva,customer000202@example.test,1,1996-03-09,2025-06-13,IN,APPROVED
+CUS-000203,Rhonda Kaiser,customer000203@example.test,1,1979-11-26,2024-05-22,IN,APPROVED
+CUS-000204,Gina White,customer000204@example.test,1,1980-06-12,2025-02-17,IN,APPROVED
+CUS-000205,Robert Wilcox,customer000205@example.test,1,2002-10-21,2024-07-27,IN,PENDING_REVIEW
+CUS-000206,Christopher Nelson,customer000206@example.test,1,1996-01-14,2024-03-07,IN,APPROVED
+CUS-000207,Christopher Carpenter,customer000207@example.test,1,1975-12-20,2026-01-05,IN,APPROVED
+CUS-000208,David Ramirez,customer000208@example.test,1,1981-10-24,2024-10-19,IN,REJECTED
+CUS-000209,John George,customer000209@example.test,1,1985-11-28,2024-05-30,IN,APPROVED
+CUS-000210,Ivan Smith,customer000210@example.test,1,2003-04-01,2025-12-15,IN,APPROVED
+CUS-000211,Mindy Thompson,customer000211@example.test,1,1972-07-31,2025-11-09,IN,PENDING_REVIEW
+CUS-000212,Amanda Keith,customer000212@example.test,1,2011-05-09,2026-08-07,IN,APPROVED
+CUS-000213,Jaime Burgess,customer000213@example.test,1,2003-02-12,2026-01-19,IN,APPROVED
+CUS-000214,Jeremy Williams,customer000214@example.test,1,1981-04-07,2026-09-04,IN,APPROVED
+CUS-000215,Lisa Gomez,customer000215@example.test,1,1997-01-14,2024-08-16,IN,APPROVED
+CUS-000216,Jordan Flores Jr.,customer000216@example.test,1,2009-09-02,2024-02-22,IN,APPROVED
+CUS-000217,Chelsea Armstrong,customer000217@example.test,1,1999-08-10,2022-09-22,IN,APPROVED
+CUS-000218,Scott Roberts,customer000218@example.test,1,1975-03-25,2026-10-03,IN,PENDING_REVIEW
+CUS-000219,William Kidd,customer000219@example.test,1,1999-07-10,2025-05-30,IN,PENDING_REVIEW
+CUS-000220,Shelia Green,customer000220@example.test,1,1977-10-14,2024-06-30,IN,APPROVED
+CUS-000221,Mark Moore,customer000221@example.test,1,1978-04-17,2024-09-21,IN,APPROVED
+CUS-000222,Angela Dominguez,customer000222@example.test,1,1984-07-15,2023-01-07,IN,APPROVED
+CUS-000223,Karla Jordan,customer000223@example.test,1,2012-05-20,2025-01-11,IN,PENDING_REVIEW
+CUS-000224,Willie Bradley,customer000224@example.test,1,2002-11-06,2026-06-24,IN,APPROVED
+CUS-000225,Jennifer Barrett,customer000225@example.test,1,1974-12-09,2022-09-26,IN,ONBOARDING
+CUS-000226,Melissa Byrd,customer000226@example.test,1,2005-04-08,2026-01-23,IN,APPROVED
+CUS-000227,Karen Foster,customer000227@example.test,1,2001-11-10,2024-06-26,IN,APPROVED
+CUS-000228,Christopher Conway,customer000228@example.test,1,1988-08-05,2023-10-14,IN,APPROVED
+CUS-000229,Alexander Benitez,customer000229@example.test,1,1984-09-08,2026-06-10,IN,APPROVED
+CUS-000230,Alisha Graves,customer000230@example.test,1,1976-12-30,2024-08-12,IN,APPROVED
+CUS-000231,Jeremy Mays,customer000231@example.test,1,1991-03-29,2025-02-17,IN,ONBOARDING
+CUS-000232,Christopher Garcia,customer000232@example.test,1,1991-09-02,2023-09-08,IN,PENDING_REVIEW
+CUS-000233,Richard Calhoun,customer000233@example.test,1,2013-01-20,2025-02-23,IN,APPROVED
+CUS-000234,Kelly Frazier,customer000234@example.test,1,1998-08-17,2024-08-02,IN,ONBOARDING
+CUS-000235,Tamara Valencia,customer000235@example.test,1,1998-04-24,2024-02-28,IN,APPROVED
+CUS-000236,Stacy Trujillo,customer000236@example.test,1,1989-11-28,2025-02-15,IN,APPROVED
+CUS-000237,Gina Cruz,customer000237@example.test,1,1983-12-20,2023-03-05,IN,ONBOARDING
+CUS-000238,Joshua Hernandez,customer000238@example.test,1,1997-04-28,2024-09-25,IN,APPROVED
+CUS-000239,Lisa Johnson,customer000239@example.test,1,1974-01-30,2023-06-29,IN,APPROVED
+CUS-000240,Maria Lee,customer000240@example.test,1,1991-06-04,2024-11-05,IN,REJECTED
+CUS-000241,Amy Horton,customer000241@example.test,1,1994-05-24,2026-09-04,IN,APPROVED
+CUS-000242,Kevin Graham,customer000242@example.test,1,1995-08-27,2023-06-23,IN,PENDING_REVIEW
+CUS-000243,John Ortiz,customer000243@example.test,1,1979-02-15,2025-10-19,IN,REJECTED
+CUS-000244,Brent Thomas,customer000244@example.test,1,2012-05-16,2025-02-06,IN,APPROVED
+CUS-000245,Theresa Perkins,customer000245@example.test,1,1987-06-28,2023-04-06,IN,APPROVED
+CUS-000246,Amy Bennett,customer000246@example.test,1,2009-09-13,2025-01-26,IN,REJECTED
+CUS-000247,Mrs. Molly Young DDS,customer000247@example.test,1,1991-06-11,2023-05-22,IN,APPROVED
+CUS-000248,Ashley Zavala,customer000248@example.test,1,1999-07-26,2025-08-08,IN,APPROVED
+CUS-000249,Vincent Chavez,customer000249@example.test,1,1997-03-15,2025-04-18,IN,ONBOARDING
+CUS-000250,Dawn Williams,customer000250@example.test,1,1993-04-28,2023-09-16,IN,APPROVED
+CUS-000251,Kyle Daniels,customer000251@example.test,1,1996-08-26,2025-08-27,IN,APPROVED
+CUS-000252,Joanne Murphy,customer000252@example.test,1,1979-05-02,2025-12-12,IN,PENDING_REVIEW
+CUS-000253,Shawn Keller,customer000253@example.test,1,1982-08-14,2023-03-30,IN,APPROVED
+CUS-000254,Connor Duarte,customer000254@example.test,1,1995-03-16,2025-11-05,IN,APPROVED
+CUS-000255,Thomas Bass,customer000255@example.test,1,1979-12-20,2026-10-16,IN,APPROVED
+CUS-000256,David Cruz,customer000256@example.test,1,1991-02-06,2025-04-04,IN,PENDING_REVIEW
+CUS-000257,Teresa Howe,customer000257@example.test,1,1977-08-09,2023-02-25,IN,ONBOARDING
+CUS-000258,Aaron Pearson,customer000258@example.test,1,1998-11-28,2026-02-22,IN,APPROVED
+CUS-000259,Kelsey Chang,customer000259@example.test,1,1999-12-07,2026-06-10,IN,APPROVED
+CUS-000260,Cristina Henson,customer000260@example.test,1,1995-06-19,2025-07-28,IN,APPROVED
+CUS-000261,Emily Garcia,customer000261@example.test,1,1979-07-18,2024-08-23,IN,PENDING_REVIEW
+CUS-000262,Meagan Tran,customer000262@example.test,1,1987-07-17,2026-07-26,IN,APPROVED
+CUS-000263,Hector Munoz,customer000263@example.test,1,1990-02-07,2025-10-03,IN,ONBOARDING
+CUS-000264,Matthew Irwin,customer000264@example.test,1,2010-11-16,2026-05-11,IN,ONBOARDING
+CUS-000265,Danielle Sanders,customer000265@example.test,1,1993-07-05,2025-07-24,IN,APPROVED
+CUS-000266,Kathy Bush,customer000266@example.test,1,2001-05-28,2024-08-28,IN,APPROVED
+CUS-000267,Carrie Miller,customer000267@example.test,1,2006-08-22,2026-08-15,IN,APPROVED
+CUS-000268,Calvin Wagner,customer000268@example.test,1,1978-05-12,2022-11-23,IN,ONBOARDING
+CUS-000269,Bradley Ramirez,customer000269@example.test,1,1989-10-10,2025-07-31,IN,ONBOARDING
+CUS-000270,Steven Moss,customer000270@example.test,1,2004-09-22,2024-10-30,IN,APPROVED
+CUS-000271,Pamela Stewart,customer000271@example.test,1,1977-03-29,2025-10-22,IN,REJECTED
+CUS-000272,Christina Rosales,customer000272@example.test,1,1976-05-01,2024-12-30,IN,PENDING_REVIEW
+CUS-000273,Robert Little II,customer000273@example.test,1,1996-01-07,2025-10-16,IN,PENDING_REVIEW
+CUS-000274,Ricky Martinez,customer000274@example.test,1,1989-07-31,2024-08-16,IN,APPROVED
+CUS-000275,Joseph Lee,customer000275@example.test,1,2005-04-20,2025-01-20,IN,ONBOARDING
+CUS-000276,Sara Gonzalez,customer000276@example.test,1,1976-09-29,2024-07-02,IN,PENDING_REVIEW
+CUS-000277,Joel Brown,customer000277@example.test,1,1984-08-09,2024-03-26,IN,APPROVED
+CUS-000278,Reginald King,customer000278@example.test,1,1982-08-15,2026-06-01,IN,APPROVED
+CUS-000279,Douglas Johnson,customer000279@example.test,1,1994-01-07,2022-11-25,IN,APPROVED
+CUS-000280,Tabitha Miller,customer000280@example.test,1,1995-04-10,2026-07-24,IN,APPROVED
+CUS-000281,Anne Anderson,customer000281@example.test,1,2008-10-17,2024-05-27,IN,APPROVED
+CUS-000282,Michael Ray,customer000282@example.test,1,2012-12-10,2024-01-25,IN,REJECTED
+CUS-000283,Robert Vasquez,customer000283@example.test,1,1986-09-16,2025-09-12,IN,APPROVED
+CUS-000284,Amy Gillespie,customer000284@example.test,1,2003-03-03,2023-04-23,IN,REJECTED
+CUS-000285,Leslie Schmidt,customer000285@example.test,1,1982-01-16,2025-09-08,IN,ONBOARDING
+CUS-000286,Joe Garcia,customer000286@example.test,1,1988-09-29,2024-09-21,IN,APPROVED
+CUS-000287,Melissa Smith,customer000287@example.test,1,2008-03-02,2022-09-25,IN,APPROVED
+CUS-000288,Michael Keller,customer000288@example.test,1,1989-07-24,2022-10-29,IN,APPROVED
+CUS-000289,Charles Snow,customer000289@example.test,1,1992-11-07,2023-02-19,IN,PENDING_REVIEW
+CUS-000290,Cynthia Sanchez,customer000290@example.test,1,1985-09-06,2025-03-30,IN,REJECTED
+CUS-000291,Julie Reynolds,customer000291@example.test,1,1983-06-06,2023-06-13,IN,ONBOARDING
+CUS-000292,Phillip Jackson,customer000292@example.test,1,1995-07-27,2026-09-03,IN,APPROVED
+CUS-000293,Melissa Ruiz,customer000293@example.test,1,1972-06-04,2023-05-15,IN,APPROVED
+CUS-000294,Kevin Carter,customer000294@example.test,1,1980-09-24,2025-06-07,IN,APPROVED
+CUS-000295,Debbie Robinson,customer000295@example.test,1,1974-03-25,2024-11-10,IN,ONBOARDING
+CUS-000296,Matthew Stephens,customer000296@example.test,1,2011-11-06,2025-04-14,IN,APPROVED
+CUS-000297,Julie Brown,customer000297@example.test,1,2010-01-04,2026-10-16,IN,ONBOARDING
+CUS-000298,Emily Bailey,customer000298@example.test,1,1990-07-21,2023-10-10,IN,APPROVED
+CUS-000299,David Lee,customer000299@example.test,1,2012-03-17,2026-01-10,IN,PENDING_REVIEW
+CUS-000300,Sharon Nolan,customer000300@example.test,1,1986-06-20,2023-11-30,IN,PENDING_REVIEW

@@ -1,0 +1,25 @@
+{
+  "seed": 20261022,
+  "generated_at": "2026-10-31",
+  "requested_volumes": {
+    "customers": 300,
+    "documents": 750,
+    "business_customers": 40,
+    "review_cases": 100
+  },
+  "actual_row_counts": {
+    "customer_types": 2,
+    "customers": 300,
+    "kyc_requirements": 24,
+    "documents": 750,
+    "verifications": 750,
+    "risk_ratings": 300,
+    "review_cases": 100,
+    "beneficial_owners": 84,
+    "alerts": 184,
+    "audit_events": 1050
+  },
+  "ground_truth_cases": 5,
+  "generator": "generator.py",
+  "provenance": "Fully synthetic data generated locally with Faker; no real customer data."
+}

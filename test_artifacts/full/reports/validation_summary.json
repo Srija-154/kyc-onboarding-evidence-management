@@ -1,0 +1,123 @@
+{
+  "database_integrity": [
+    "ok"
+  ],
+  "foreign_key_violations": 0,
+  "customers_duplicate_primary_keys": 0,
+  "documents_duplicate_primary_keys": 0,
+  "verifications_duplicate_primary_keys": 0,
+  "risk_ratings_duplicate_primary_keys": 0,
+  "review_cases_duplicate_primary_keys": 0,
+  "beneficial_owners_duplicate_primary_keys": 0,
+  "alerts_duplicate_primary_keys": 0,
+  "audit_events_duplicate_primary_keys": 0,
+  "kyc_requirements_duplicate_primary_keys": 0,
+  "customer_types_duplicate_primary_keys": 0,
+  "row_counts": {
+    "customers": 8000,
+    "documents": 20000,
+    "verifications": 20000,
+    "risk_ratings": 8000,
+    "review_cases": 3000,
+    "beneficial_owners": 1988,
+    "alerts": 202,
+    "audit_events": 31123,
+    "kyc_requirements": 24,
+    "customer_types": 2
+  },
+  "duplicate_document_references": 1,
+  "ownership_groups_over_100": 1,
+  "closed_reviews_without_resolution": 1,
+  "expired_documents_marked_verified": 1,
+  "approved_customers_missing_evidence": 1,
+  "customers_with_duplicate_active_reviews": 0,
+  "closed_reviews_missing_timestamp": 0,
+  "ground_truth_rows": 5,
+  "ground_truth_missing_columns": [],
+  "ground_truth_issue_counts": {
+    "EXPIRED_MARKED_VALID": 1,
+    "APPROVED_WITH_MISSING_EVIDENCE": 1,
+    "OWNERSHIP_OVER_100": 1,
+    "CLOSED_WITHOUT_RESOLUTION": 1,
+    "DUPLICATE_DOCUMENT": 1
+  },
+  "expected_business_exceptions": [
+    {
+      "issue_type": "DUPLICATE_DOCUMENT",
+      "count": 1,
+      "matched_records": [
+        {
+          "record_id": "DOC-CUS-000002-001",
+          "customer_id": "CUS-000002"
+        }
+      ]
+    },
+    {
+      "issue_type": "OWNERSHIP_OVER_100",
+      "count": 1,
+      "matched_records": [
+        {
+          "record_id": "CUS-001000",
+          "customer_id": "CUS-001000"
+        }
+      ]
+    },
+    {
+      "issue_type": "CLOSED_WITHOUT_RESOLUTION",
+      "count": 1,
+      "matched_records": [
+        {
+          "record_id": "REV-CUS-000001-2026-0001",
+          "customer_id": "CUS-000001"
+        }
+      ]
+    },
+    {
+      "issue_type": "EXPIRED_MARKED_VALID",
+      "count": 1,
+      "matched_records": [
+        {
+          "record_id": "DOC-CUS-000014-005",
+          "customer_id": "CUS-000014"
+        }
+      ]
+    },
+    {
+      "issue_type": "APPROVED_WITH_MISSING_EVIDENCE",
+      "count": 1,
+      "matched_records": [
+        {
+          "record_id": "CUS-001001",
+          "customer_id": "CUS-001001"
+        }
+      ]
+    }
+  ],
+  "unexpected_business_exceptions": [],
+  "unmatched_ground_truth": [],
+  "structural_errors": [],
+  "business_exceptions": [
+    "Document references are shared across unrelated customers.",
+    "Beneficial ownership totals exceed 100%.",
+    "Closed reviews exist without a resolution.",
+    "Expired documents are marked as verified.",
+    "Approved customers have incomplete or invalid mandatory KYC evidence."
+  ],
+  "operational_warnings": [],
+  "expected_exception_count": 5,
+  "unexpected_exception_count": 0,
+  "unmatched_ground_truth_count": 0,
+  "structural_status": "PASSED",
+  "business_status": "EXPECTED_EXCEPTIONS_ONLY",
+  "validation_passed": true,
+  "validation_status": "PASSED",
+  "notes": [
+    "Document references are shared across unrelated customers.",
+    "Beneficial ownership totals exceed 100%.",
+    "Closed reviews exist without a resolution.",
+    "Expired documents are marked as verified.",
+    "Approved customers have incomplete or invalid mandatory KYC evidence."
+  ],
+  "database": "C:\\Users\\aruri\\Downloads\\kyc-onboarding-system-starter\\kyc-onboarding-system\\test_artifacts\\full\\data\\kyc_full_test.db",
+  "dataset_directory": "C:\\Users\\aruri\\Downloads\\kyc-onboarding-system-starter\\kyc-onboarding-system\\test_artifacts\\full\\datasets"
+}

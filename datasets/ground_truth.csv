@@ -1,0 +1,6 @@
+record_id,customer_id,issue_type,expected_decision,description
+DOC-CUS-000001-002,CUS-000001,EXPIRED_MARKED_VALID,FLAG,Document expiry date is in the past but status is verified.
+CUS-000041,CUS-000041,APPROVED_WITH_MISSING_EVIDENCE,FLAG,Approved customer has no PAN evidence.
+CUS-000040,CUS-000040,OWNERSHIP_OVER_100,FLAG,Beneficial ownership total is 110 percent.
+REV-CUS-000001-2026-0001,CUS-000001,CLOSED_WITHOUT_RESOLUTION,FLAG,Review is closed but resolution is blank.
+DOC-CUS-000002-001,CUS-000002,DUPLICATE_DOCUMENT,INVESTIGATE,Document reference is reused by another customer.

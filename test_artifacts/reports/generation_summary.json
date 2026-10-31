@@ -1,0 +1,53 @@
+{
+  "seed": 20261022,
+  "generated_at": "2026-10-31",
+  "requested_volumes": {
+    "customers": 300,
+    "documents": 750,
+    "business_customers": 40,
+    "review_cases": 100
+  },
+  "actual_row_counts": {
+    "customer_types": 2,
+    "customers": 300,
+    "kyc_requirements": 24,
+    "documents": 750,
+    "verifications": 750,
+    "risk_ratings": 300,
+    "review_cases": 100,
+    "beneficial_owners": 80,
+    "alerts": 4,
+    "audit_events": 1166
+  },
+  "approval_status_adjustments": 111,
+  "ground_truth_cases": 5,
+  "generator": "generator.py",
+  "database": "test_artifacts\\data\\kyc_test.db",
+  "provenance": "Fully synthetic data generated locally with Faker; no real customer data.",
+  "checksums": {
+    "alerts.csv": "48862286a3a91818d039ce0c07f153dd7312a280770ef9e9052a0bd7031855a5",
+    "alerts.json": "0f5272197c8af708199f89d2a78e1b1aba32757328093e3df93c04afa863640b",
+    "audit_events.csv": "a6bd77f9d6d517c26d0948b95879493bd8c9e3a29c72201a065cd789820d4645",
+    "audit_events.json": "25f8cdc3489803815c376a33e54f0f95dcc7f77aec336256a11f77a39afbc33c",
+    "beneficial_owners.csv": "daf3fb73e5605498e0ce5894556e076db0d2c6d0a256bcdbf2e029b9ea00d627",
+    "beneficial_owners.json": "3bddb1db19afedc4566970577eb7f26b90d43ed9e7c376175ef9c02ab3303970",
+    "customer_types.csv": "6f59c097e6b90dcb03a9f9a879bf81b15bb94cd6ce398ab94fc5e7b5b5d4a4f1",
+    "customer_types.json": "8102568662af69b6d537021a63b446791d8ba055ba743419d128cfa9bb8c465a",
+    "customers.csv": "6edffc11a992184b79c4a42d8171c9bec56adaf3a0f5976a86f8f912d4b49ec4",
+    "customers.json": "d8c036d52920d8ca50fc6d8ba07ad0e08e7892765c1c100b59ae0377742f72b4",
+    "documents.csv": "6b9724cff1f672f264ffdf9029d85eb91d95bb4c8d6348cd896022b6d2c9267f",
+    "documents.json": "e06da4146fae46fb7401a1e8af74fddc94093be95997bd8aff99d8e67b7236ee",
+    "ground_truth.csv": "828bee8ccdaec41529d60f33ab5ad3656116cb33338a23301e583978e364c1ac",
+    "ground_truth.json": "ce98907fef3dcddc4e951273b3610cde186843c7086849e4918fa74956bd91f7",
+    "kyc_completeness.csv": "cdc91213b1c4b39791152bbc98e9e0d6df43fa8dbff450b3be4571f76b12c8ac",
+    "kyc_requirements.csv": "044a809c93b0a19529f026dac461f4488a40a8b0cd3ba1b9c90086e8c4b3ad5f",
+    "kyc_requirements.json": "ab5f9a874c8a04804ee64be682dd8a1b67eda9cc47f3c6d77d5bfe324322683c",
+    "review_cases.csv": "dc358386512a82043c507a71eda2b726b48fc08125da26a90513022acd5c8eb5",
+    "review_cases.json": "ddfa4b1c3831b4798300d06903117936d3318145288cce9e8e3d662cf026c677",
+    "risk_ratings.csv": "f85a91536e3350ef2cef5bc3f1848b342146c5f7159897b8f3de33e018f83d6e",
+    "risk_ratings.json": "ab76dfff2ca5cf27c5eeaa9952904ca1d975b08fe52d1094f1d32b59496b6148",
+    "schema.sql": "c34e605f2b9a44f5f074c180c1b8ec758ec1f7e3ec168ddb9f8e247990f05d8c",
+    "verifications.csv": "1e11047ebaeefe10df08f85911311d70e2e7bc8011147a01301c9cca59b05287",
+    "verifications.json": "2bbc9d3613941df003b6bcbe31fc0bf581289cdbfe6badfdc02314ae15b4f46b"
+  }
+}
